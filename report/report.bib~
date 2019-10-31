@@ -1,0 +1,3670 @@
+\bibliographystyle{ieeetr}
+
+@article{WSN-Survey-2008,
+ author = {J.Yick and B.Mukherjee and B.Ghoshal},
+ title = {Wireless Sensor Network Survey},
+ journal = {Computer Networks},
+ volume = {52},
+ number = {12},
+ year = {2008},
+pages = {2292-2330}
+}
+@article{Zhang,
+  author    = {Chuanlin Zhang and Xiaole Bai and Jin Teng and Dong Xuan and Weijia Jia},
+  title     = {Constructing low-connectivity and full-coverage three dimensional sensor networks},
+  journal   = {IEEE Journal on Selected Areas in Communications},
+  volume    = {28},
+  number    = {7},
+  year      = {2010},
+  pages     = {984-993}
+}
+@INPROCEEDINGS{4374307,
+author={Selavo, L. and Gang Zhou and Stankovic, J.A.},
+booktitle={BROADNETS},
+title={SeeMote: In-Situ Visualization and Logging Device for Wireless Sensor Networks},
+year={2006},
+pages={1-9}}
+@article{energy-survey06,
+ author = {L. Wang and Y. Xiao},
+ title = {A survey of energy-efficient scheduling mechanisms in sensor networks},
+ journal = {Mobile Networks and Applications},
+ volume = {11},
+ number = {5},
+ year = {2006},
+pages = {723-740}
+}
+
+@article{Zhou09,
+ author = {Zhou, Zongheng and Das, Samir R. and Gupta, Himanshu},
+ title = {Variable radii connected sensor cover in sensor networks},
+ journal = {ACM Transactions on Sensor Networks},
+ volume = {5},
+ number = {1},
+ year = {2009},
+pages = {89-124}
+} 
+@unpublished{url,
+        author = "",
+        title = "The Network Simulator - ns-2.34",
+	 note = {\url{http://www.isi.edu/nsnam/ns}}
+}
+
+@unpublished{HW1,
+        author = "",
+        title = "Hardware survey",
+	 note = {\url{http://www.cse.unsw.edu.au/sensar/hardware/hardware\_survey.html}}
+}
+
+
+@unpublished{url_large,
+        author = "",
+        title = "Large Simulations in ns-2.34",
+	 note = {\url{http://www.isi.edu/nsnam/ns/ns-largesim.html}}
+}
+@unpublished{TOSSIM,
+        author = "",
+        title = "TOSSIM",
+	 note = {\url{http://tinyos.stanford.edu/tinyos-wiki/index.php/TOSSIM}}
+}
+
+@unpublished{glomosim,
+        author = "",
+        title = "Glomosim",
+	 note = {\url{http://pcl.cs.ucla.edu/projects/glomosim/}}
+}
+
+
+
+@unpublished{TinyOS,
+        author = "",
+        title = "TinyOS",
+	 note = {\url{www.tinyos.net/}}
+}
+
+@unpublished{LiteOS,
+        author = "",
+        title = "LiteOS",
+	 note = {\url{http://www.liteos.net/}}
+}
+
+
+@unpublished{contiki,
+        author = "",
+        title = "Contiki",
+	 note = {\url{www.sics.se/ contiki }}
+}
+
+@unpublished{senslab,
+        author = "",
+        title = "Senslab",
+	 note = {\url{http://www.senslab.info}}
+}
+
+
+@unpublished{Indriya,
+        author = "",
+        title = "Indriya",
+	 note = {\url{indriya.comp.nus.edu.sg/}}
+}
+
+@InProceedings{	  chatzigiannakis09sensappeal,
+  author	= {Ioannis Chatzigiannakis and Christos Koninis and Georgios
+		  Mylonas and Stefan Fischer and Dennis Pfisterer},
+  booktitle	= {Proceedings of the 1st International Conference on Sensor
+		  Networks Applications, Experimentation and Logistics},
+  month		= sep,
+  title		= {{WISEBED}: an Open Large-Scale Wireless Sensor Network
+		  Testbed},
+  url		= {http://www.springerlink.com/content/l1l255074h700524/},
+  year		= 2009
+}
+
+@article{cc2,
+  author    = {Honghai Zhang and
+               Jennifer C. Hou},
+  title     = {Maintaining Sensing Coverage and Connectivity in Large Sensor
+               Networks},
+  journal   = {Ad Hoc {\&} Sensor Wireless Networks},
+  volume    = {1},
+  number    = {1-2},
+ pages     = "89-123",
+  year      = {2005},
+}
+
+@article{liournals,
+  author    = {Lin Liao and
+               Weifeng Chen and
+               Chuanlin Zhang and
+               Lizhuo Zhang and
+               Dong Xuan and
+               Weijia Jia},
+  title     = {Two Birds With One Stone: Wireless Access Point Deployment for Both
+               Coverage and Localization},
+  journal   = {{IEEE} T. Vehicular Technology},
+  year      = {2011},
+  volume    = {60},
+  number    = {5},
+  pages     = {2239--2252}
+}
+
+
+@article{JORourke,
+  author    = {J.O Rourke},
+  title     = {Open problem from art gallery solved},
+  journal   = {International Journal of Computational Geometry {\&} Applications},
+  volume    = {2},
+ pages     = "215-217",
+  year      = {1992}
+}
+
+
+@article{su1,
+  author    = "Honghai Zhang and
+               Jennifer C. Hou",
+  title     = "On the upper bound of $\alpha$-lifetime for large
+               sensor networks",
+  journal   = "ACM Transations of Sensor Network",
+  volume    = "1",
+  number    = "2",
+  year      = "2005",
+  pages     = "272-300",
+  }
+@inproceedings{Bai05,
+ author = {Bai, Hongxing and Chen, Xi and Ho, Yu-Chi and Guan, Xiaohong},
+ title = {Percentage coverage configuration in wireless sensor networks},
+booktitle = {ISPA},
+ year = {2005},
+ location = {Nanjing, China},
+ pages = {780-791},
+ address = {Berlin, Heidelberg},
+} 
+
+
+@inproceedings{n01,
+ author = {Wook Choi, and S. K. Das},
+ title = {Trade-off between coverage and data reporting latency for energy-conserving data gathering in wireless sensor networks},
+ series = {MASS},
+ year = {2004},
+ address = {Fort Lauderdale, USA},
+ pages = {503-512},
+} 
+@article{Lazo06,
+ author = {Lazos, Loukas and Poovendran, Radha},
+ title = {Stochastic coverage in heterogeneous sensor networks},
+ journal = {ACM Transactions on Sensor Networks},
+ volume = {2},
+ number = {3},
+ year = {2006},
+ pages = {325-358},
+} 
+@article{ChenHB09,
+  author    = {Xi Chen and
+               Yu-Chi Ho and
+               Hongxing Bai},
+  title     = {Complete coverage and point coverage in randomly distributed
+               sensor networks},
+  journal   = {Automatica},
+  volume    = {45},
+  number    = {6},
+  year      = {2009},
+  pages     = {1549-1553},
+}
+
+@article{HefeedaB09,
+  author    = {Mohamed Hefeeda and
+               Majid Bagheri},
+  title     = {Forest Fire Modeling and Early Detection using Wireless
+               Sensor Networks},
+  journal   = {Ad Hoc {\&} Sensor Wireless Networks},
+  volume    = {7},
+  number    = {3-4},
+  year      = {2009},
+  pages     = {169-224},
+}
+
+@article{Wu2005,
+ author = {Wu, Kui and Gao, Yong and Li, Fulu and Xiao, Yang},
+ title = {Lightweight deployment-aware scheduling for wireless sensor networks},
+ journal = {Mobile Networks and Applications},
+ volume = {10},
+ number = {6},
+ year = {2005},
+ pages = {837-852},
+} 
+
+
+@article{su2,
+ author = "Wan and Peng-Jun and Yi and Chih-Wei",
+ title = "Coverage by randomly deployed wireless sensor networks",
+ journal = "IEEE/ACM Transactions on Information Theory",
+ year      = "2006",
+ volume = "52",
+number= "6", 
+pages = "2658-2669",
+} 
+@INPROCEEDINGS{P8,
+    author = "Benyuan Liu and Don Towsley",
+    title = "A study of the coverage of large-scale sensor networks",
+    booktitle = "MASS",
+    year = "2004",
+    pages = "475-483",
+address="Fort Lauderdale, FL"
+}
+
+@article{su3,
+  author    = "Quanhong Wang and
+               Kenan Xu and
+               Glen Takahara and
+               Hossam S. Hassanein",
+  title     = "Device Placement for Heterogeneous Wireless Sensor Networks: Minimum Cost with Lifetime Constraints",
+  journal   = "IEEE Transactions on Wireless Communications",
+  volume    = "6",
+  number    = "7",
+  year      = "2007",
+  pages     = "2444-2453",
+}
+@article{su4,
+  author    = "Kenan Xu and
+               Hossam S. Hassanein and
+               Glen Takahara and
+               Quanhong Wang",
+  title     = "Relay Node Deployment Strategies in Heterogeneous Wireless
+               Sensor Networks",
+  journal   = "IEEE Transactions on Mobile Computing",
+  volume    = "9",
+  number    = "2",
+  year      = "2010",
+  pages     = "145-159",
+}
+
+@article{YenYC06,
+  author    = "Li-Hsing Yen and
+               Chang Wu Yu and
+               Yang-Min Cheng",
+  title     = "Expected {\it k}-coverage in wireless sensor networks",
+  journal   = "Ad Hoc Networks",
+  volume    = "4",
+  number    = "5",
+  year      = "2006",
+  pages     = "636-650",
+  }
+ 
+
+
+@inproceedings{a3,
+  author    = "Xiao Wang and
+               Xinbing Wang and
+               Jun Zhao",
+  title     = "Impact of Mobility and Heterogeneity on Coverage and Energy
+               Consumption in Wireless Sensor Networks",
+  booktitle = "Proceedings of IEEE ICDCS",
+  year      = "2011",
+  pages     = "477-487"
+}
+@inproceedings{a4,
+    author = "Yong Gao and Kui Wu and Fulu Li",
+    title = "Analysis on the Redundancy of Wireless Sensor Networks",
+    booktitle = "Proceedings of WSNA",
+    year = "2003",
+    pages = "108-114",
+    publisher = "ACM Press"
+}
+
+@article{a5,
+  title = "Scheduling protocols for homogeneous and heterogeneous k-covered wireless sensor networks",
+  author = "Habib M. Ammari and Sajal K. Das",
+  year = "2011",
+  doi = "http://dx.doi.org/10.1016/j.pmcj.2010.08.007",
+  tags = "wireless sensor networks",
+  researchr = "http://researchr.org/publication/AmmariD11",
+  cites = "0",
+  citedby = "0",
+  journal = "Pervasive and Mobile Computing",
+  volume = "7",
+  number = "1",
+  pages = "79-97",
+}
+
+@inproceedings{a6,
+  author    = "Honghai Zhang and
+               Jennifer C. Hou",
+  title     = "Is Deterministic Deployment Worse than Random Deployment for Wireless Sensor Networks?",
+  booktitle = "INFOCOM",
+  year      = "2006"
+}
+
+@article{a7,
+author    = "E. W. Weisstein",        
+         title = "Circle-circle intersection",
+	 note = "[Online] Available: \url{http://mathworld.wolfram.com/Circle-CircleIntersection.html}",
+        year={2012}
+}
+@unpublished{a8,
+        author = "P. Hall",
+        title = " Introduction to the Theory of Coverage Processes",
+        year="1988"
+}
+@article{a9,
+  author    = "Chi-Fu Huang and
+               Yu-Chee Tseng and
+               Hsiao-Lu Wu",
+  title     = "Distributed protocols for ensuring both coverage and connectivity
+               of a wireless sensor network",
+  journal   = "ACM Transactions on Sensor Networks",
+  volume    = "3",
+  number    = "1",
+  year      = "2007",
+  pages     = "1-24"
+}
+
+@inproceedings{Huang03,
+ author = {Chi-Fu Huang  and Yu-Chee Tseng},
+ title = {The coverage problem in a wireless sensor network},
+ booktitle= {WSNA},
+ year = {2003},
+ address = {San Diego, CA, USA},
+ pages = {115-121},
+} 
+
+
+@article{a10,
+  author    = "S. Meguerdichian and
+               M. Potkonjak",
+  title     = "Low power 0/1 coverage and scheduling techniques in sensor networks",
+  journal   = "UCLA Technical Reports 030001",
+  year      = "January 2003",
+}
+@article{b12,
+  author    = "Yigal Bejerano",
+  title     = "Coverage Verification without Location Information",
+  journal   = "IEEE Transactions on Mobile Computing",
+  volume    = "11",
+  number    = "4",
+  year      = "2012",
+  pages     = "631-643"
+}
+@article{a11,
+  title         = "Crossbow Technology Inc.",
+   note          = "http://www.xbow.com/",
+  year          = "available Sept. 2009",
+}
+
+@article{book1,
+  author    = "P. Hall",
+  title     = "Introduction to the Theory of Coverage Processes",
+  journal   = "John Wiley \& Sons",
+  year      = "1988"
+  }
+
+
+
+
+@inproceedings{P6,
+  author    = {Santosh Kumar and
+               Ten-Hwang Lai and
+               J{\'o}zsef Balogh},
+  title     = {On k-coverage in a mostly sleeping sensor network},
+  booktitle = {MOBICOM},
+  year      = {2004},
+  pages     = {144-158},
+ address = {Philadelphia, PA, USA}
+}
+
+@article{Yingshu12,
+  author    = {Yingshu Li and
+               Chinh T. Vu and
+               Chunyu Ai and
+               Guantao Chen and
+               Yi Zhao},
+  title     = {Transforming Complete Coverage Algorithms to Partial Coverage
+               Algorithms for Wireless Sensor Networks},
+  journal   = {IEEE Transactions on Parallel and Distributed Systems },
+  volume    = {22},
+  number    = {4},
+  year      = {2011},
+  pages     = {695-703}
+}
+
+@INPROCEEDINGS{cc13,
+    author = {Di Tian and Nicolas D. Georganas},
+    title = {A Coverage-Preserving Node Scheduling Scheme for Large Wireless Sensor Networks.},
+    booktitle = {Proceedings of the 1st ACM international workshop on Wireless sensor networks and applications},
+    year = {2002},
+    pages = {32-41},
+    publisher = {ACM Press}
+}
+@INPROCEEDINGS{b1,
+    author = {Mihaela Cardei and Jie Wu},
+    title = {Coverage in wireless sensor networks.},
+    booktitle = {Handbook of sensor networks},
+    year = {2004},
+    publisher = {CRC Press, chapter 19}
+}
+
+@inproceedings{Gao03,
+ author = {Gao, Yong and Wu, Kui and Li, Fulu},
+ title = {Analysis on the redundancy of wireless sensor networks},
+ series = {WSNA '03},
+ year = {2003},
+ location = {San Diego, CA, USA},
+ pages = {108--114},
+ address = {New York, NY, USA},
+} 
+@inproceedings{Meng10,
+ author = {Meng, Fanzhi and Wang, Huanzhao and Wei, Guojian and Fan, Zhiying},
+ title = {Energy-efficient and coverage-specific node scheduling for wireless sensor networks},
+booktitle  = {Proceedings of MSWIM},
+ year = {2010},
+ location = {Bodrum, Turkey},
+ pages = {368-375},
+ address = {New York, NY, USA},
+} 
+
+@inproceedings{Geo08,
+  author    = {Yiwei Wu and
+               Chunyu Ai and
+               Shan Gao and
+               Yingshu Li},
+  title     = {p-Percent Coverage in Wireless Sensor Networks},
+  booktitle = {Proceedings of WASA},
+  year      = {2008},
+  pages     = {200-211},
+ address = {Dallas, TX, USA},
+}
+
+@article{Li11,
+ author = {Yingshu Li and Chunyu Ai and Zhipeng Cai and Raheem Beyah},
+ title = {Sensor scheduling for p-percent coverage in wireless sensor networks},
+ journal = {Cluster Computing},
+ volume = {14},
+ number = {1},
+ year = {2011},
+ pages = {27-40},
+} 
+
+@inproceedings{wei05,
+    author = {Wei Mo and Daji Qiao and Zhengdao Wang},
+    title = {Mostly-Sleeping Wireless Sensor Networks: Connectivity, k-Coverage, and α-Lifetime},
+    booktitle = {The 43rd Annual Allerton Conference on Communication, Control, and Computing},
+ year = {2005},
+ location = {Monticello, IL},
+} 
+@inproceedings{Bai05,
+ author = {Bai, Hongxing and Chen, Xi and Ho, Yu-Chi and Guan, Xiaohong},
+ title = {Percentage coverage configuration in wireless sensor networks},
+ series = {ISPA},
+ year = {2005},
+ location = {Nanjing, China},
+ pages = {780-791},
+ address = {Berlin, Heidelberg},
+} 
+@article{Yardibi10,
+ author = {Yardibi, Tarik and Karasan, Ezhan},
+ title = {A distributed activity scheduling algorithm for wireless sensor networks with partial coverage},
+ journal = {Wireless Networks},
+ volume = {16},
+ number = {1},
+ year = {2010},
+ pages = {213-225},
+} 
+@inproceedings{cc10,
+ author = {Aslam, Nauman and Robertson, William},
+ title = {Distributed coverage and connectivity in three dimensional wireless sensor networks},
+ booktitle = {IWCMC},
+ year = {2010},
+ location = {Caen, France},
+ pages = {1141-1145},
+ address = {New York, NY, USA},
+} 
+
+@article{cc8,
+  author    = {Yingshu Li and
+               Shan Gao},
+  title     = {Designing {\it k}-coverage schedules in wireless sensor
+               networks},
+  journal   = {Journal of Combinatorial Optimization },
+  volume    = {15},
+  number    = {2},
+  year      = {2008},
+  pages     = {127-146}
+}
+@article{a1,
+ author = "Bulut, Eyuphan and Korpeoglu, Ibrahim",
+ title = "Sleep scheduling with expected common coverage in wireless sensor network",
+ journal = "Wireless Networks",
+ volume = "17",
+ number    = "1",
+ year = "2011",
+ pages = "19-40"
+} 
+@article{b12,
+  author    = "Yigal Bejerano",
+  title     = "Coverage Verification without Location Information",
+  journal   = "IEEE Transactions on Mobile Computing",
+  volume    = "11",
+  number    = "4",
+  year      = "2012",
+  pages     = "631-643"
+}
+
+@article{a7,
+author    = "E. W. Weisstein",        
+title = "Circle-circle intersection",
+note = "[Online] Available: \url{http://mathworld.wolfram.com/Circle-CircleIntersection.html}",
+year="2012"
+}
+
+@article{Wang03,
+    author = {Guoliang Xing and Xiaorui Wang and Yuanfang Zhang and Chenyang Lu and Robert Pless and Christopher Gill},
+    title = {Integrated coverage and connectivity configuration for energy conservation in sensor networks},
+    journal = {ACM Transactions on Sensor Networks},
+    year = {2005},
+    volume = {1},
+ number = {1},
+    pages = {36-72}
+}
+@article{Hef,
+ author = {Hefeeda, Mohamed and Ahmadi, Hossein},
+ title = {Energy-Efficient Protocol for Deterministic and Probabilistic Coverage in Sensor Networks},
+ journal = {IEEE Transactions on Parallel and Distributed Systems},
+ volume = {21},
+ number = {5},
+ year = {2010},
+ pages = {579-593},
+} 
+@INPROCEEDINGS{Ye03,
+    author = {Fan Ye and Gary Zhong and Jesse Cheng and Songwu Lu and Lixia Zhang},
+    title = {PEAS: A Robust Energy Conserving Protocol for Long-lived Sensor Networks},
+    booktitle = {},
+ series = {ICDCS '03},
+ year = {2003},
+ location = {San Diego, CA, USA},
+ pages = {108--114},
+
+}
+@article{Ammari12,
+ author = {Ammari, Habib M. and Das, Sajal K.},
+ title = {Centralized and Clustered k-Coverage Protocols for Wireless Sensor Networks},
+ journal = {IEEE Transactions on Computers},
+ volume = {61},
+ number = {1},
+ year = {2012},
+ pages = {118-133},
+} 
+
+@article{Liu06,
+  author    = {Chong Liu and
+               Kui Wu and
+               Yang Xiao and
+               Bo Sun},
+  title     = {Random Coverage with Guaranteed Connectivity: Joint Scheduling
+               for Wireless Sensor Networks},
+  journal   = {IEEE Transactions on Parallel and Distributed Systems},
+  volume    = {17},
+  number    = {6},
+  year      = {2006},
+  pages     = {562-575}
+}
+@inproceedings{Chen1160985,
+ author = {Chen, Jinran and Kher, Shubha and Somani, Arun},
+ title = {Distributed fault detection of wireless sensor networks},
+ booktitle = {Proceedings of DIWANS},
+ year = {2006},
+ location = {Los Angeles, CA, USA},
+ pages = {65-72},
+ address = {New York, NY, USA}
+} 
+@ARTICLE{4623768,
+author={Guanqun Yang and Qiao, D.},
+journal={IEEE Communications Letters},
+title={Critical Conditions for Connected-k-Coverage in Sensor Networks},
+year={2008},
+volume={12},
+number={9},
+pages={651-653}}
+
+
+@INPROCEEDINGS{1498320,
+author={Ding, M. and Dechang Chen and Kai Xing and Xiuzhen Cheng},
+booktitle={Proceedings of INFOCOM},
+title={Localized fault-tolerant event boundary detection in sensor networks},
+year={2005},
+volume={2},
+pages={902-913}
+}
+
+
+
+
+
+@INPROCEEDINGS{5935073,
+author={Xiaole Bai and Ziqiu Yun and Dong Xuan and Biao Chen and Wei Zhao},
+booktitle={Proc. of INFOCOM},
+title={Optimal multiple-coverage of sensor networks},
+year={2011},
+pages={2498-2506}}
+
+
+@ARTICLE{4468710,
+author={Chia-Ho Ou and Kuo-Feng Ssu},
+journal={IEEE Transactions on Mobile Computing},
+title={Sensor Position Determination with Flying Anchors in Three-Dimensional Wireless Sensor Networks},
+year={2008},
+volume={7},
+number={9},
+pages={1084-1097}}
+
+@inproceedings{JiangD04,
+  author    = {Jie Jiang and
+               Wenhua Dou},
+  title     = {A Coverage-Preserving Density Control Algorithm for Wireless
+               Sensor Networks},
+  booktitle = {ADHOC-NOW},
+  year      = {2004},
+  pages     = {42-55}
+}
+
+@INPROCEEDINGS{Xiaole09,
+author={Xiaole Bai and Chuanlin Zhang and Dong Xuan and Weijia Jia},
+booktitle={Proc. of INFOCOM}, 
+title={Full-Coverage and k-Connectivity (k=14,6) Three Dimensional Networks},
+year={2009},
+pages={388-396}}
+
+@ARTICLE{ammari09,
+author={ Habib M. Ammari and Sajal K. Das},
+journal={IEEE Transactions on Parallel and Distributed Systems}, 
+title={Critical Density for Coverage and Connectivity in Three-Dimensional Wireless Sensor Networks Using Continuum Percolation},
+year={2009},
+volume={20},
+number={6},
+pages={872-885}}
+@article{HeCS12,
+  author    = {Shibo He and
+               Jiming Chen and
+               Youxian Sun},
+  title     = {Coverage and Connectivity in Duty-Cycled Wireless Sensor
+               Networks for Event Monitoring},
+  journal   = {IEEE Transactions on Parallel and Distributed Systems},
+  volume    = {23},
+  number    = {3},
+  year      = {2012},
+  pages     = {475-482}
+}
+
+@article{HefeedaA10,
+  author    = {Mohamed Hefeeda and
+               Hossein Ahmadi},
+  title     = {Energy-Efficient Protocol for Deterministic and Probabilistic
+               Coverage in Sensor Networks},
+  journal   = {IEEE Transactions on Parallel and Distributed Systems},
+  volume    = {21},
+  number    = {5},
+  year      = {2010},
+  pages     = {579-593}
+}
+
+@article{RenLWCZ07,
+  author    = {Shansi Ren and
+               Qun Li and
+               Haining Wang and
+               Xin Chen and
+               Xiaodong Zhang},
+  title     = {Design and Analysis of Sensing Scheduling Algorithms under
+               Partial Coverage for Object Detection in Sensor Networks},
+  journal   = {IEEE Transactions on Parallel and Distributed Systems},
+  volume    = {18},
+  number    = {3},
+  year      = {2007},
+  pages     = {334-350}
+}
+
+
+@article{WSN-Survey-2008,
+ author = {J.Yick and B.Mukherjee and B.Ghoshal},
+ title = {Wireless Sensor Network Survey},
+ journal = {Computer Networks},
+ volume = {52},
+ number = {12},
+ year = {2008},
+pages = {2292-2330}
+}
+
+@article{UWSN-Survey-2005,
+ author = {I.F.Akyildiz and D.Pompili and T.Melodia},
+ title = {Underwater Acoustic Sensor Networks: Research Challenges},
+ journal = {Ad Hoc Networks},
+ volume = {3},
+ number = {3},
+ year = {2005},
+pages = {257-279}
+}
+@article{WSN-Survey-2008,
+ author = {J.Yick and B.Mukherjee and B.Ghoshal},
+ title = {Wireless Sensor Network Survey},
+ journal = {Computer Networks},
+ volume = {52},
+ number = {12},
+ year = {2008},
+pages = {2292-2330}
+}
+@inproceedings{Mainwaring,
+ author = {Alan Mainwaring and Joseph Polastre and Robert Szewczyk and David Culler and John Anderson},
+ title = {Wireless sensor networks for habitat monitoring},
+booktitle = {Proc. of WSNA},
+ year = {2002},
+ pages = {88-97}
+}
+
+@article{Lynch,
+ author = {Soojin Cho and Chung-Bang Yun and Jerome P. Lynch and Andrew Zimmerman and Bill Spencer Jr. and Tomo Nagayama},
+ title = {Smart Wireless Sensor Technology for Structural Health Monitoring of Civil Structures},
+ journal = {International Journal of Steel Structures},
+ volume = {8},
+ number = {4},
+ year = {2008},
+pages = {267-275}
+}
+
+@article{Heidemann,
+ author = {John Heidemann and Milica Stojanovic and Michele Zorzi},
+ title = {Underwater sensor networks: Applications, advances and challenges},
+ journal = {Philosophical Transactions of the Royal Society},
+ volume = {370},
+ number = {1958},
+ year = {2012},
+pages = {158-175}
+}
+
+
+
+
+@inproceedings{Bettstetter,
+ author = {Christian Bettstetter},
+ title = {On the minimum node degree and connectivity of a wireless multihop network},
+ booktitle = {Proc. of MOBIHOC},
+ year = {2002},
+ pages = {80-91}
+} 
+
+@ARTICLE{Xiaoyuan,
+author={Xiaoyuan Ta and Guoqiang Mao and Brian.D.O. Anderson},
+journal={IEEE Transactions on Mobile Computing}, 
+title={On the Phase Transition Width of {K}-Connectivity in Wireless Multihop Networks},
+year={2009},
+volume={8},
+number={7},
+pages={936 -949}
+}
+
+
+@article{Ravelomanana,
+  author    = {Vlady Ravelomanana},
+  title     = {Extremal Properties of Three-Dimensional Sensor Networks
+               with Applications},
+  journal   = {IEEE Transactions on Mobile Computing},
+  volume    = {3},
+  number    = {3},
+  year      = {2004},
+  pages     = {246-257},
+  ee        = {http://doi.ieeecomputersociety.org/10.1109/TMC.2004.23},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+
+@article{su2,
+ author = "Wan and Peng-Jun and Yi and Chih-Wei",
+ title = "Coverage by randomly deployed wireless sensor networks",
+ journal = "IEEE/ACM Transactions on Information Theory",
+ year      = "2006",
+ volume = "52",
+number= "6", 
+pages = "2658-2669"
+} 
+
+@article{kcover,
+  author    = {Santosh Kumar and
+               Ten-Hwang Lai and
+               J{\'o}zsef Balogh},
+  title     = {On k-coverage in a mostly sleeping sensor network},
+  journal   = {Wireless Networks},
+  volume    = {14},
+  number    = {3},
+  year      = {2008},
+  pages     = {277-294},
+  ee        = {http://dx.doi.org/10.1007/s11276-006-9958-8},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+
+@article{multi,
+ author = "Norman C. Beaulieu",
+ title = "On the Generalized Multinomial Distribution, Optimal Multinomial Detectors, and Generalized Weighted Partial Decision Detectors",
+ journal = "IEEE Transactions on Communications",
+ year      = "1991",
+ volume = "39",
+number= "2", 
+pages = "193-194"
+} 
+
+@inproceedings{12341,
+author = {Wei Feng and Jaafar M.H. Elmirghani},
+title = {Energy Efficiency in the Cluster-Based Linear Ad-hoc Wireless Networks},
+booktitle ={Proc. of NGMA},
+year = {2009},
+pages = {395-400},
+address = {Los Alamitos, CA, USA},
+}
+@article{energy-survey06,
+ author = {L. Wang and Y. Xiao},
+ title = {A survey of energy-efficient scheduling mechanisms in sensor networks},
+ journal = {Mobile Networks and Applications},
+ volume = {11},
+ number = {5},
+ year = {2006},
+pages = {723-740}
+}
+
+@article{Zhou09,
+ author = {Zhou, Zongheng and Das, Samir R. and Gupta, Himanshu},
+ title = {Variable radii connected sensor cover in sensor networks},
+ journal = {ACM Transactions on Sensor Networks},
+ volume = {5},
+ number = {1},
+ year = {2009},
+pages = {89-124}
+} 
+
+@article{Zhou09,
+ author = {Zhou, Zongheng and Das, Samir R. and Gupta, Himanshu},
+ title = {Variable radii connected sensor cover in sensor networks},
+ journal = {ACM Transactions on Sensor Networks},
+ volume = {5},
+ number = {1},
+ year = {2009},
+pages = {89-124}
+} 
+
+@article{Gritzmann92,
+  author    = {Peter Gritzmann and
+               Victor Klee},
+  title     = {Inner and Outer j-Radii of Convex Bodies in Finite-Dimensional
+               Normed Spaces},
+  journal   = {Discrete {\&} Computational Geometry},
+  volume    = {7},
+  year      = {1992},
+  pages     = {255-280},
+  ee        = {http://dx.doi.org/10.1007/BF02187841},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+@inproceedings{Zhou04,
+ author = {Zhou, Gang and He, Tian and Krishnamurthy, Sudha and Stankovic, John A.},
+ title = {Impact of radio irregularity on wireless sensor networks},
+ booktitle = {Proc. of Mobisys},
+ year = {2004},
+ pages = {125-138}
+} 
+
+
+
+@unpublished{url,
+        author = "",
+        title = "The Network Simulator - ns-2.34",
+	 note = {\url{http://www.isi.edu/nsnam/ns}}
+}
+
+@unpublished{url_new,
+	 note = "\url{http://srtm.csi.cgiar.org/index.asp}",
+	 year={2013}
+}
+
+@article{cc2,
+  author    = {Honghai Zhang and
+               Jennifer C. Hou},
+  title     = {Maintaining Sensing Coverage and Connectivity in Large Sensor
+               Networks},
+  journal   = {Ad Hoc {\&} Sensor Wireless Networks},
+  volume    = {1},
+  number    = {1-2},
+ pages     = "89-123",
+  year      = {2005},
+}
+@article{su1,
+  author    = "Honghai Zhang and
+               Jennifer C. Hou",
+  title     = "On the upper bound of $\alpha$-lifetime for large
+               sensor networks",
+  journal   = "ACM Transations of Sensor Network",
+  volume    = "1",
+  number    = "2",
+  year      = "2005",
+  pages     = "272-300",
+  }
+@inproceedings{P5,
+  author    = {Honghai Zhang and
+               Jennifer C. Hou},
+  title     = {On deriving the upper bound of $\alpha$-lifetime for large
+               sensor networks},
+  booktitle = {Proc. of MobiHoc},
+  year      = {2004},
+  pages     = {121-132},
+}
+@inproceedings{Bai05,
+ author = {Bai, Hongxing and Chen, Xi and Ho, Yu-Chi and Guan, Xiaohong},
+ title = {Percentage coverage configuration in wireless sensor networks},
+booktitle = {Proc. of ISPA},
+ year = {2005},
+ location = {Nanjing, China},
+ pages = {780-791},
+ address = {Berlin, Heidelberg},
+} 
+
+
+@inproceedings{n01,
+ author = {Wook Choi, and S. K. Das},
+ title = {Trade-off between coverage and data reporting latency for energy-conserving data gathering in wireless sensor networks},
+ series = {Proc. of MASS},
+ year = {2004},
+ address = {Fort Lauderdale, USA},
+ pages = {503-512},
+} 
+@article{Lazo06,
+ author = {Lazos, Loukas and Poovendran, Radha},
+ title = {Stochastic coverage in heterogeneous sensor networks},
+ journal = {ACM Transactions on Sensor Networks},
+ volume = {2},
+ number = {3},
+ year = {2006},
+ pages = {325-358},
+} 
+@article{ChenHB09,
+  author    = {Xi Chen and
+               Yu-Chi Ho and
+               Hongxing Bai},
+  title     = {Complete coverage and point coverage in randomly distributed
+               sensor networks},
+  journal   = {Automatica},
+  volume    = {45},
+  number    = {6},
+  year      = {2009},
+  pages     = {1549-1553},
+}
+
+@article{HefeedaB09,
+  author    = {Mohamed Hefeeda and
+               Majid Bagheri},
+  title     = {Forest Fire Modeling and Early Detection using Wireless
+               Sensor Networks},
+  journal   = {Ad Hoc {\&} Sensor Wireless Networks},
+  volume    = {7},
+  number    = {3-4},
+  year      = {2009},
+  pages     = {169-224},
+}
+
+@article{Wu2005,
+ author = {Wu, Kui and Gao, Yong and Li, Fulu and Xiao, Yang},
+ title = {Lightweight deployment-aware scheduling for wireless sensor networks},
+ journal = {Mobile Networks and Applications},
+ volume = {10},
+ number = {6},
+ year = {2005},
+ pages = {837-852},
+} 
+
+
+@article{su2,
+ author = "Wan and Peng-Jun and Yi and Chih-Wei",
+ title = "Coverage by randomly deployed wireless sensor networks",
+ journal = "IEEE/ACM Transactions on Information Theory",
+ year      = "2006",
+ volume = "52",
+number= "6", 
+pages = "2658-2669",
+} 
+@INPROCEEDINGS{P8,
+    author = "Benyuan Liu and Don Towsley",
+    title = "A study of the coverage of large-scale sensor networks",
+    booktitle = "Proc. of MASS",
+    year = "2004",
+    pages = "475-483",
+address="Fort Lauderdale, FL"
+}
+
+@article{su3,
+  author    = "Quanhong Wang and
+               Kenan Xu and
+               Glen Takahara and
+               Hossam S. Hassanein",
+  title     = "Device Placement for Heterogeneous Wireless Sensor Networks: Minimum Cost with Lifetime Constraints",
+  journal   = "IEEE Transactions on Wireless Communications",
+  volume    = "6",
+  number    = "7",
+  year      = "2007",
+  pages     = "2444-2453",
+}
+@article{su4,
+  author    = "Kenan Xu and
+               Hossam S. Hassanein and
+               Glen Takahara and
+               Quanhong Wang",
+  title     = "Relay Node Deployment Strategies in Heterogeneous Wireless
+               Sensor Networks",
+  journal   = "IEEE Transactions on Mobile Computing",
+  volume    = "9",
+  number    = "2",
+  year      = "2010",
+  pages     = "145-159",
+}
+
+@article{YenYC06,
+  author    = "Li-Hsing Yen and
+               Chang Wu Yu and
+               Yang-Min Cheng",
+  title     = "Expected {\it k}-coverage in wireless sensor networks",
+  journal   = "Ad Hoc Networks",
+  volume    = "4",
+  number    = "5",
+  year      = "2006",
+  pages     = "636-650",
+  }
+ 
+@article{a2,
+  author = "HYan Jin and Ling Wang and Ju-Yeon Jo and Yoohwan Kim and Mei Yang and Yingtao Jiang",
+  journal = "IEEE Transactions on Vehicular Technology",
+  number = 3,
+  pages = "1429 - 1442",
+  title = "{EECCR:An} Energy-Efficient $m$-Coverage and $n$-Connectivity Routing Algorithm Under Border Effects in Heterogeneous Sensor Networks",
+  volume = 58,
+  year = 2009,
+}
+
+@inproceedings{a3,
+  author    = "Xiao Wang and
+               Xinbing Wang and
+               Jun Zhao",
+  title     = "Impact of Mobility and Heterogeneity on Coverage and Energy
+               Consumption in Wireless Sensor Networks",
+  booktitle = "Proc. of IEEE ICDCS",
+  year      = "2011",
+  pages     = "477-487"
+}
+@inproceedings{a4,
+    author = "Yong Gao and Kui Wu and Fulu Li",
+    title = "Analysis on the Redundancy of Wireless Sensor Networks",
+    booktitle = "Proc. of WSNA",
+    year = "2003",
+    pages = "108-114",
+    publisher = "ACM Press}
+}
+
+@article{a5,
+  title = "Scheduling protocols for homogeneous and heterogeneous k-covered wireless sensor networks",
+  author = "Habib M. Ammari and Sajal K. Das",
+  year = "2011",
+  doi = "http://dx.doi.org/10.1016/j.pmcj.2010.08.007",
+  tags = "wireless sensor networks",
+  researchr = "http://researchr.org/publication/AmmariD11",
+  cites = "0",
+  citedby = "0",
+  journal = "Pervasive and Mobile Computing",
+  volume = "7",
+  number = "1",
+  pages = "79-97",
+}
+
+@inproceedings{a6,
+  author    = "Honghai Zhang and
+               Jennifer C. Hou",
+  title     = "Is Deterministic Deployment Worse than Random Deployment
+               for Wireless Sensor Networks?",
+  booktitle = "Proc. of INFOCOM",
+  year      = "2006"
+}
+
+@article{a7,
+author    = "E. W. Weisstein",        
+         title = "Sphere-Sphere intersection",
+	 note = "[Online] Available: \url{http://mathworld.wolfram.com/Sphere-SphereIntersection.html}",
+        year={2013}
+}
+@unpublished{a8,
+        author = "P. Hall",
+        title = " Introduction to the Theory of Coverage Processes",
+        year="1988"
+}
+@article{a9,
+  author    = "Chi-Fu Huang and
+               Yu-Chee Tseng and
+               Hsiao-Lu Wu",
+  title     = "Distributed protocols for ensuring both coverage and connectivity
+               of a wireless sensor network",
+  journal   = "ACM Transactions on Sensor Networks",
+  volume    = "3",
+  number    = "1",
+  year      = "2007",
+  pages     = "1-24",
+  ee        = "http://doi.acm.org/10.1145/1210669.1210674",
+  bibsource = "DBLP, http://dblp.uni-trier.de}
+}
+@inproceedings{Huang03,
+ author = {Chi-Fu Huang  and Yu-Chee Tseng},
+ title = {The coverage problem in a wireless sensor network},
+ booktitle= {Proc. of WSNA},
+ year = {2003},
+ address = {San Diego, CA, USA},
+ pages = {115-121},
+} 
+
+@inproceedings{Haas2006,
+  author    = {S. Alam and Z. Haas},
+  title     = {Coverage and connectivity in three-dimensional networks},
+  booktitle = {Proc. of ACM Mobicom},
+  year      = {2006},
+  pages     = {346-357}
+}
+
+
+@article{a10,
+  author    = "S. Meguerdichian and
+               M. Potkonjak",
+  title     = "Low power 0/1 coverage and scheduling techniques in sensor networks",
+  journal   = "UCLA Technical Reports 030001",
+  year      = "January 2003",
+}
+@article{b12,
+  author    = "Yigal Bejerano",
+  title     = "Coverage Verification without Location Information",
+  journal   = "IEEE Transactions on Mobile Computing",
+  volume    = "11",
+  number    = "4",
+  year      = "2012",
+  pages     = "631-643",
+ bibsource = "DBLP, http://dblp.uni-trier.de}
+}
+@article{a11,
+  title         = "Crossbow Technology Inc.",
+   note          = "http://www.xbow.com/",
+  year          = "available Sept. 2009",
+}
+
+@article{book1,
+  author    = "P. Hall",
+  title     = "Introduction to the Theory of Coverage Processes",
+  journal   = "John Wiley \& Sons",
+  year      = "1988"
+  }
+
+
+
+
+@inproceedings{P6,
+  author    = {Santosh Kumar and
+               Ten-Hwang Lai and
+               J{\'o}zsef Balogh},
+  title     = {On k-coverage in a mostly sleeping sensor network},
+  booktitle = {Proc. of MOBICOM},
+  year      = {2004},
+  pages     = {144-158},
+ address = {Philadelphia, PA, USA}
+}
+
+@article{Yingshu12,
+  author    = {Yingshu Li and
+               Chinh T. Vu and
+               Chunyu Ai and
+               Guantao Chen and
+               Yi Zhao},
+  title     = {Transforming Complete Coverage Algorithms to Partial Coverage
+               Algorithms for Wireless Sensor Networks},
+  journal   = {IEEE Transactions on Parallel and Distributed Systems },
+  volume    = {22},
+  number    = {4},
+  year      = {2011},
+  pages     = {695-703}
+}
+
+@INPROCEEDINGS{cc13,
+    author = {Di Tian and Nicolas D. Georganas},
+    title = {A Coverage-Preserving Node Scheduling Scheme for Large Wireless Sensor Networks.},
+    booktitle = {Proc. of 1st ACM international workshop on Wireless sensor networks and applications},
+    year = {2002},
+    pages = {32-41},
+    publisher = {ACM Press}
+}
+@INPROCEEDINGS{b1,
+    author = {Mihaela Cardei and Jie Wu},
+    title = {Coverage in wireless sensor networks.},
+    booktitle = {Handbook of sensor networks},
+    year = {2004},
+    publisher = {CRC Press, chapter 19}
+}
+
+
+@inproceedings{Gao03,
+ author = {Gao, Yong and Wu, Kui and Li, Fulu},
+ title = {Analysis on the redundancy of wireless sensor networks},
+ series = {Proc. of WSNA},
+ year = {2003},
+ location = {San Diego, CA, USA},
+ pages = {108--114},
+ address = {New York, NY, USA},
+} 
+@inproceedings{Meng10,
+ author = {Meng, Fanzhi and Wang, Huanzhao and Wei, Guojian and Fan, Zhiying},
+ title = {Energy-efficient and coverage-specific node scheduling for wireless sensor networks},
+booktitle  = {Proc. of MSWIM},
+ year = {2010},
+ location = {Bodrum, Turkey},
+ pages = {368-375}
+} 
+
+@inproceedings{Geo08,
+  author    = {Yiwei Wu and
+               Chunyu Ai and
+               Shan Gao and
+               Yingshu Li},
+  title     = {p-Percent Coverage in Wireless Sensor Networks},
+  booktitle = {Proceedings of WASA},
+  year      = {2008},
+  pages     = {200-211},
+ address = {Dallas, TX, USA},
+}
+
+@article{Li11,
+ author = {Yingshu Li and Chunyu Ai and Zhipeng Cai and Raheem Beyah},
+ title = {Sensor scheduling for p-percent coverage in wireless sensor networks},
+ journal = {Cluster Computing},
+ volume = {14},
+ number = {1},
+ year = {2011},
+ pages = {27-40},
+} 
+
+@inproceedings{wei05,
+    author = {Wei Mo and Daji Qiao and Zhengdao Wang},
+    title = {Mostly-Sleeping Wireless Sensor Networks: Connectivity, k-Coverage, and α-Lifetime},
+    booktitle = {The 43rd Annual Allerton Conference on Communication, Control, and Computing},
+ year = {2005},
+ location = {Monticello, IL},
+} 
+@inproceedings{Bai05,
+ author = {Bai, Hongxing and Chen, Xi and Ho, Yu-Chi and Guan, Xiaohong},
+ title = {Percentage coverage configuration in wireless sensor networks},
+ series = {ISPA},
+ year = {2005},
+ location = {Nanjing, China},
+ pages = {780-791},
+ address = {Berlin, Heidelberg},
+} 
+@article{Yardibi10,
+ author = {Yardibi, Tarik and Karasan, Ezhan},
+ title = {A distributed activity scheduling algorithm for wireless sensor networks with partial coverage},
+ journal = {Wireless Networks},
+ volume = {16},
+ number = {1},
+ year = {2010},
+ pages = {213-225},
+} 
+@inproceedings{cc10,
+ author = {Aslam, Nauman and Robertson, William},
+ title = {Distributed coverage and connectivity in three dimensional wireless sensor networks},
+ booktitle = {IWCMC},
+ year = {2010},
+ location = {Caen, France},
+ pages = {1141-1145},
+ address = {New York, NY, USA},
+} 
+
+@article{cc8,
+  author    = {Yingshu Li and
+               Shan Gao},
+  title     = {Designing {\it k}-coverage schedules in wireless sensor
+               networks},
+  journal   = {Journal of Combinatorial Optimization },
+  volume    = {15},
+  number    = {2},
+  year      = {2008},
+  pages     = {127-146},
+}
+@article{a1,
+ author = "Bulut, Eyuphan and Korpeoglu, Ibrahim",
+ title = "Sleep scheduling with expected common coverage in wireless sensor network",
+ journal = "Wireless Networks",
+ issue_date = "2011",
+ volume = "17",
+ number    = "1",
+ year = "2011",
+ pages = "19-40",
+} 
+@article{b12,
+  author    = "Yigal Bejerano",
+  title     = "Coverage Verification without Location Information",
+  journal   = "IEEE Transactions on Mobile Computing",
+  volume    = "11",
+  number    = "4",
+  year      = "2012",
+  pages     = "631-643",
+ bibsource = "DBLP, http://dblp.uni-trier.de}
+}
+@article{a7,
+author    = "E. W. Weisstein",        
+         title = "Circle-circle intersection",
+	 note = "[Online] Available: \url{http://mathworld.wolfram.com/Circle-CircleIntersection.html}",
+        year={2012}
+}
+
+@article{Wang03,
+    author = {Guoliang Xing and Xiaorui Wang and Yuanfang Zhang and Chenyang Lu and Robert Pless and Christopher Gill},
+    title = {Integrated coverage and connectivity configuration for energy conservation in sensor networks},
+    journal = {ACM Transactions on Sensor Networks},
+    year = {2005},
+    volume = {1},
+ number = {1},
+    pages = {36-72}
+}
+@article{Hef,
+ author = {Hefeeda, Mohamed and Ahmadi, Hossein},
+ title = {Energy-Efficient Protocol for Deterministic and Probabilistic Coverage in Sensor Networks},
+ journal = {IEEE Transactions on Parallel and Distributed Systems},
+ volume = {21},
+ number = {5},
+ year = {2010},
+ pages = {579-593},
+} 
+@INPROCEEDINGS{Ye03,
+    author = {Fan Ye and Gary Zhong and Jesse Cheng and Songwu Lu and Lixia Zhang},
+    title = {PEAS: A Robust Energy Conserving Protocol for Long-lived Sensor Networks},
+    booktitle = {},
+ series = {ICDCS '03},
+ year = {2003},
+ location = {San Diego, CA, USA},
+ pages = {108--114},
+
+}
+@article{Ammari12,
+ author = {Ammari, Habib M. and Das, Sajal K.},
+ title = {Centralized and Clustered k-Coverage Protocols for Wireless Sensor Networks},
+ journal = {IEEE Transactions on Computers},
+ volume = {61},
+ number = {1},
+ year = {2012},
+ pages = {118-133},
+} 
+
+
+
+@article{HuangTL07,
+  author    = {Chi-Fu Huang and
+               Yu-Chee Tseng and
+               Li-Chu Lo},
+  title     = {The Coverage Problem in Three-Dimensional Wireless Sensor
+               Networks},
+  journal   = {Journal of Interconnection Networks},
+  volume    = {8},
+  number    = {3},
+  year      = {2007},
+  pages     = {209-227}
+}
+@inproceedings{AmmariD08,
+  author    = {Habib M. Ammari and
+               Sajal K. Das},
+  title     = {Joint k-Coverage and Hybrid Forwarding in Duty-Cycled Three-Dimensional
+               Wireless Sensor Networks},
+  booktitle = {Proc. of SECON},
+  year      = {2008},
+  pages     = {170-178}
+ }
+ 
+@article{AmmariD10,
+  author    = {Habib M. Ammari and
+               Sajal K. Das},
+  title     = {A Study of k-Coverage and Measures of Connectivity in {3D} Wireless Sensor Networks},
+  journal   = {IEEE Transactions on Computers},
+  volume    = {59},
+  number    = {2},
+  year      = {2010},
+  pages     = {243-257}
+}
+
+@article{WatfaC08,
+  author    = {Mohamed Khalil Watfa and
+               Sesh Commuri},
+  title     = {An energy efficient and self-healing 3-dimensional sensor
+               cover},
+  journal   = {IJAHUC},
+  volume    = {3},
+  number    = {1},
+  year      = {2008},
+  pages     = {33-47}
+}
+@inproceedings{jun012,
+  author    = {Jun Xiao and Chenchen Qi and Lizhong Shu},
+  title     = {Research of coverage control algorithm in three-dimensional wireless sensor network based on energy efficiency},
+  booktitle = {Proc. of CCDC},
+  year      = {2012},
+  pages     = {3363-3368}
+ }
+
+@ARTICLE{5408368,
+author={Chi Zhang and Yanchao Zhang and Yuguang Fang},
+journal={IEEE Transactions on Mobile Computing},
+title={A Coverage Inference Protocol for Wireless Sensor Networks},
+year={2010},
+volume={9},
+number={6},
+pages={850-864}}
+
+
+
+@ARTICLE{5508968,
+author={Ka-Shun Hung and King-Shan Lui},
+journal={IEEE Transactions on Wireless Communications},
+title={On Perimeter Coverage in Wireless Sensor Networks},
+year={2010},
+volume={9},
+number={7},
+pages={2156-2164}}
+
+@ARTICLE{4712695,
+author={Jenn-Wei Lin and Yi-Ting Chen},
+journal={IEEE Transactions on Wireless Communications},
+title={Improving the coverage of randomized scheduling in wireless sensor networks},
+year={2008},
+volume={7},
+number={12},
+pages={4807-4812}}
+
+@article{Lazos,
+ author = {Loukas Lazos and Radha Poovendran},
+ title = {Stochastic coverage in heterogeneous sensor networks},
+ journal = {ACM Transactions on Sensor Networks},
+ volume = {2},
+ number = {3},
+ year = {2006},
+ pages = {325-358},
+}
+
+@inproceedings{sensys09,
+  author    = {L. Mo and et. al.},
+  title     = {Canopy Closure Estimates with Greenorbs:{Sustainable} Sensing in the Forest},
+  booktitle = {Proc. of ACM SenSys},
+  year      = {Nov. 2009},
+  pages     = {99-112}
+}
+
+@ARTICLE{4290041,
+author={Bang Wang and Kee Chaing Chua and Srinivasan, V. and Wei Wang},
+journal={IEEE Transactions on Wireless Communications},
+title={Information Coverage in Randomly Deployed Wireless Sensor Networks},
+year={2007},
+volume={6},
+number={8},
+pages={2994-3004}
+}
+
+
+
+@article{Yen,
+  author    = {Li-Hsing Yen and
+               Chang Wu Yu and
+               Yang-Min Cheng},
+  title     = {Expected {\it k}-coverage in wireless sensor networks},
+  journal   = {Ad Hoc Networks},
+  volume    = {4},
+  number    = {5},
+  year      = {2006},
+  pages     = {636-650}
+}
+
+@inproceedings{zhang1,
+  author    = {Honghai Zhang and
+               Jennifer C. Hou},
+  title     = {Is Deterministic Deployment Worse than Random Deployment
+               for Wireless Sensor Networks?},
+  booktitle = {Proc. of INFOCOM},
+  year      = {2006},
+  pages = {1-13}
+}
+
+@inproceedings{paillard,
+  author    = {Gabriel Paillard and
+               Vlady Ravelomanana},
+  title     = {Limit Theorems for Degree of Coverage and Lifetime in Large
+               Sensor Networks},
+  booktitle = {Proc. of INFOCOM},
+  year      = {2008},
+  pages     = {2011-2019}
+}
+
+@article{wan,
+ author = "Peng-Jun Wan and Chih-Wei Yi",
+ title = "Coverage by randomly deployed wireless sensor networks",
+ journal = "IEEE/ACM Transactions on Information Theory",
+ year      = "2006",
+ volume = "52",
+number= "6", 
+pages = "2658-2669",
+} 
+
+@article{PHME04,
+  author    = {Robert Szewczyk and
+               et. al.},
+  title     = {Habitat monitoring with sensor networks},
+  journal   = {ACM Commun},
+  volume    = {47},
+  number    = {6},
+  year      = {2004},
+  pages     = {34-40}
+}
+
+@article{WMPSY12,
+  author    = {Vladimir Dyo and et. al.},
+  title     = {{WILDSENSING}: Design and deployment of a sustainable sensor
+               network for wildlife monitoring},
+  journal   = {ACM Transactions on Sensor Networks},
+  volume    = {8},
+  number    = {4},
+  year      = {2012},
+  pages = {29:1-29:33}
+}
+
+@article{AslanKU12,
+  author    = {Yunus Emre Aslan and
+               Ibrahim Korpeoglu and
+               {\"O}zg{\"u}r Ulusoy},
+  title     = {A framework for use of wireless sensor networks in forest
+               fire detection and monitoring},
+  journal   = {Computers, Environment and Urban Systems},
+  volume    = {36},
+  number    = {6},
+  year      = {2012},
+  pages     = {614-625}
+}
+
+@article{AmmariD12,
+  author    = {Habib M. Ammari and Sajal K. Das},
+  title     = {Centralized and Clustered k-Coverage Protocols for Wireless
+               Sensor Networks},
+  journal   = {IEEE Transactions on Computers},
+  volume    = {61},
+  number    = {1},
+  year      = {2012},
+  pages     = {118-133}
+}
+
+@article{Appendix,
+author    = "{Supplementary File}",        
+	 note = "[Online] Available: \url{http://www.iitg.ac.in/stud/g.hari/twc.pdf}"
+}
+
+@INPROCEEDINGS{6654800,
+author={Hari Prabhat Gupta and S. V. Rao and T. Venkatesh},
+booktitle={Proc. of IEEE ICC},
+title={Analysis of the redundancy in coverage of a heterogeneous wireless sensor network},
+year={2013},
+pages={1904-1909}
+}
+
+@article{goes2011,
+  author    = {Fernando de Goes and
+               David Cohen-Steiner and
+               Pierre Alliez and
+               Mathieu Desbrun},
+  title     = {An Optimal Transport Approach to Robust Reconstruction and
+               Simplification of {2D} Shapes},
+  journal   = {Comput. Graph. Forum},
+  volume    = {30},
+  number    = {5},
+  year      = {2011},
+  pages     = {1593-1602}
+}
+
+@article{Gritzmann92,
+  author    = {Peter Gritzmann and
+               Victor Klee},
+  title     = {Inner and Outer j-Radii of Convex Bodies in Finite-Dimensional Normed Spaces},
+  journal   = {Discrete {\&} Computational Geometry},
+  volume    = {7},
+  year      = {1992},
+  pages     = {255-280}
+}
+
+@inproceedings{a3,
+  author    = "Xiao Wang and
+               Xinbing Wang and
+               Jun Zhao",
+  title     = "Impact of Mobility and Heterogeneity on Coverage and Energy
+               Consumption in Wireless Sensor Networks",
+  booktitle = "Proc. of IEEE ICDCS",
+  year      = "2011",
+  pages     = "477-487"
+}
+@inproceedings{Zhou04,
+ author = {Zhou, Gang and He, Tian and Krishnamurthy, Sudha and Stankovic, John A.},
+ title = {Impact of radio irregularity on wireless sensor networks},
+ booktitle = {Proc. of Mobisys},
+ year = {2004},
+ pages = {125-138}
+} 
+
+@ARTICLE{4468710,
+author={Chia-Ho Ou and Kuo-Feng Ssu},
+journal={IEEE Transactions on Mobile Computing},
+title={Sensor Position Determination with Flying Anchors in Three-Dimensional Wireless Sensor Networks},
+year={2008},
+volume={7},
+number={9},
+pages={1084-1097}}
+
+@INPROCEEDINGS{5062233,
+author={Huadong Ma and Xi Zhang and Anlong Ming},
+booktitle={Proc. of INFOCOM},
+title={A Coverage-Enhancing Method for {3D} Directional Sensor Networks},
+year={2009},
+pages={2791-2795}}
+
+@inproceedings{YuTBXJ11,
+  author    = {Zuoming Yu and
+               Jin Teng and
+               Xiaole Bai and
+               Dong Xuan and
+               Weijia Jia},
+  title     = {Connected coverage in wireless networks with directional antennas},
+booktitle={Proc. of INFOCOM},
+  year      = {2011},
+  pages     = {2264-2272}
+}
+
+@incollection{Elfes,
+	author = {A. Elfes},
+	title = {Occupancy Grids: A Stochastic Spatial Representation for Active Robot Perception},
+	booktitle = {Autonomous Mobile Robots: {P}erception, Mapping, and Navigation},
+	pages = {60-70},
+	volume = {1},
+	publisher = {{I}{E}{E}{E} Computer Society Press},
+	year = {1991}
+}
+
+
+
+
+
+
+@inproceedings{VieiraAL11,
+  author    = {Luiz Filipe M. Vieira and
+               Marcelo G. Almiron and
+               Antonio Alfredo Ferreira Loureiro},
+  title     = {{3D MANETs}: Link Probability, Node Degree, Network Coverage
+               and applications},
+  booktitle = {Proc. of WCNC},
+  year      = {2011},
+  pages     = {2042-2047}
+}
+
+@article{ZhangBTXJ10,
+  author    = {Chuanlin Zhang and
+               Xiaole Bai and
+               Jin Teng and
+               Dong Xuan and
+               Weijia Jia},
+  title     = {Constructing low-connectivity and full-coverage three dimensional
+               sensor networks},
+  journal   = {IEEE Journal on Selected Areas in Communications},
+  volume    = {28},
+  number    = {7},
+  year      = {2010},
+  pages     = {984-993}
+}
+@article{LuoDH06,
+  author    = {Xuanwen Luo and
+               Ming Dong and
+               Yinlun Huang},
+  title     = {On Distributed Fault-Tolerant Detection in Wireless Sensor
+               Networks},
+  journal   = {IEEE Transactions on Computers},
+  volume    = {55},
+  number    = {1},
+  year      = {2006},
+  pages     = {58-70}
+}
+@inproceedings{Chen1160985,
+ author = {Chen, Jinran and Kher, Shubha and Somani, Arun},
+ title = {Distributed fault detection of wireless sensor networks},
+ booktitle = {Proceedings of DIWANS},
+ year = {2006},
+ location = {Los Angeles, CA, USA},
+ pages = {65-72},
+ address = {New York, NY, USA}
+} 
+@ARTICLE{4623768,
+author={Guanqun Yang and Qiao, D.},
+journal={IEEE Communications Letters},
+title={Critical Conditions for Connected-k-Coverage in Sensor Networks},
+year={2008},
+volume={12},
+number={9},
+pages={651-653}}
+
+
+@INPROCEEDINGS{1498320,
+author={Ding, M. and Dechang Chen and Kai Xing and Xiuzhen Cheng},
+booktitle={Proceedings of INFOCOM},
+title={Localized fault-tolerant event boundary detection in sensor networks},
+year={2005},
+volume={2},
+pages={902-913}
+}
+@ARTICLE{Seh13,
+author={Seh Chun Ng and Guoqiang Mao and Anderson, B.D.O.},
+journal={IEEE Transactions on Wireless Communications},
+title={Critical Density for Connectivity in {2D} and {3D} Wireless Multi-Hop Networks},
+year={2013},
+volume={12},
+number={4},
+pages={1512-1523}}
+
+@ARTICLE{ammari09,
+author={ Habib M. Ammari and Sajal K. Das},
+journal={IEEE Transactions on Parallel and Distributed Systems}, 
+title={Critical Density for Coverage and Connectivity in Three-Dimensional Wireless Sensor Networks Using Continuum Percolation},
+year={2009},
+volume={20},
+number={6},
+pages={872-885}}
+
+@article{AmmariD10,
+  author    = {Habib M. Ammari and
+               Sajal K. Das},
+  title     = {A Study of k-Coverage and Measures of Connectivity in {3D} Wireless Sensor Networks},
+  journal   = {IEEE Transactions on Computers},
+  volume    = {59},
+  number    = {2},
+  year      = {2010},
+  pages     = {243-257}
+}
+
+@ARTICLE{Xiaoyuan09,
+author={Xiaoyuan Ta and Guoqiang Mao and Anderson, B. D O},
+journal={IEEE Transactions on Mobile Computing},
+title={On the Phase Transition Width of K-Connectivity in Wireless Multihop Networks},
+year={2009},
+volume={8},
+number={7},
+pages={936-949}}
+
+@INPROCEEDINGS{Quin07,
+author={Qing Ling and Zhi Tian},
+booktitle={Proc. of GLOBECOM},
+title={Minimum Node Degree and k-Connectivity of a Wireless Multihop Network in Bounded Area},
+year={2007},
+pages={1296-1301}
+}
+@article{Bettstetter04,
+  author    = {Christian Bettstetter},
+  title     = {On the Connectivity of Ad Hoc Networks},
+  journal   = {The Computer Journal},
+  volume    = {47},
+  number    = {4},
+  year      = {2004},
+  pages     = {432-447}
+}
+
+@inproceedings{Bettstetter02,
+  author    = {Christian Bettstetter},
+  title     = {On the minimum node degree and connectivity of a wireless
+               multihop network},
+  booktitle = {Proc. of MobiHoc},
+  year      = {2002},
+  pages     = {80-91}
+}
+@article{ZhangH08,
+  author    = {Honghai Zhang and
+               Jennifer C. Hou},
+  title     = {Asymptotic critical total power for k-connectivity of wireless
+               networks},
+  journal   = {IEEE/ACM Transactions on Networking},
+  volume    = {16},
+  number    = {2},
+  year      = {2008},
+  pages     = {347-358}
+}
+
+@inproceedings{LingT07,
+  author    = {Qing Ling and
+               Zhi Tian},
+  title     = {Minimum Node Degree and k-Connectivity of a Wireless Multihop
+               Network in Bounded Area},
+  booktitle = {Proc. of GLOBECOM},
+  year      = {2007},
+  pages     = {1296-1301}
+}
+
+
+@article{JiaKMWY05,
+  author    = {Xiaohua Jia and
+               Dongsoo Kim and
+               Sam Makki and
+               Peng-Jun Wan and
+               Chih-Wei Yi},
+  title     = {Power Assignment for {\it k}-Connectivity in Wireless Ad
+               Hoc Networks},
+  journal   = {Journal of Combinatorial Optimization},
+  volume    = {9},
+  number    = {2},
+  year      = {2005},
+  pages     = {213-222}
+}
+
+
+
+@article{Penrose99,
+  author    = {Mathew D. Penrose},
+  title     = {On k-connectivity for a geometric random graph},
+  journal   = {Random Struct. Algorithms},
+  volume    = {15},
+  number    = {2},
+  year      = {1999},
+  pages     = {145-164}
+}
+
+@INPROCEEDINGS{hariprabhat,
+author={Hari Prabhat Gupta and S. V. Rao and T. Venkatesh},
+booktitle={Proc. of COMSNETS}, 
+title={Sleep scheduling for partial coverage in heterogeneous wireless sensor networks},
+year={2013},
+pages={1-10}
+}
+
+@article{Ravelomanana,
+  author    = {Vlady Ravelomanana},
+  title     = {Extremal Properties of Three-Dimensional Sensor Networks
+               with Applications},
+  journal   = {IEEE Transactions on Mobile Computing},
+  volume    = {3},
+  number    = {3},
+  year      = {2004},
+  pages     = {246-257},
+  ee        = {http://doi.ieeecomputersociety.org/10.1109/TMC.2004.23},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{paillard,
+  author    = {Gabriel Paillard and
+               Vlady Ravelomanana},
+  title     = {Limit Theorems for Degree of Coverage and Lifetime in Large
+               Sensor Networks},
+  booktitle = {Proc. of INFOCOM},
+  year      = {2008},
+  pages     = {2011-2019}
+}
+@article{Lazos,
+ author = {Loukas Lazos and Radha Poovendran},
+ title = {Stochastic coverage in heterogeneous sensor networks},
+ journal = {ACM Transactions on Sensor Networks},
+ volume = {2},
+ number = {3},
+ year = {2006},
+ pages = {325-358},
+}
+@article{wan,
+ author = "Peng-Jun Wan and Chih-Wei Yi",
+ title = "Coverage by randomly deployed wireless sensor networks",
+ journal = "IEEE/ACM Transactions on Information Theory",
+ year      = "2006",
+ volume = "52",
+number= "6", 
+pages = "2658-2669",
+} 
+@inproceedings{zhang1,
+  author    = {Honghai Zhang and
+               Jennifer C. Hou},
+  title     = {Is Deterministic Deployment Worse than Random Deployment
+               for Wireless Sensor Networks?},
+  booktitle = {Proc. of INFOCOM},
+  year      = {2006},
+  pages = {1-13}
+}
+
+@BOOK{book1,
+   author = "Daniel Zwillinger",
+   title= "CRC Standard Mathematical Tables and Formulae, {$32^{nd}$} Edition ",
+   publisher = "CRC Press",
+   year = "1987",
+   pages= {123--124}
+   }
+
+
+
+
+@article{Yen,
+  author    = {Li-Hsing Yen and
+               Chang Wu Yu and
+               Yang-Min Cheng},
+  title     = {Expected {\it k}-coverage in wireless sensor networks},
+  journal   = {Ad Hoc Networks},
+  volume    = {4},
+  number    = {5},
+  year      = {2006},
+  pages     = {636-650},
+  ee        = {http://dx.doi.org/10.1016/j.adhoc.2005.07.001},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{Jing09,
+ author = {Jing, Zhao and Jian-Chao, Zeng},
+ title = {A virtual potential field based coverage algorithm for directional networks},
+booktitle={Proc. of CCDC},
+ year = {2009},
+ pages = {4626-4631},
+ numpages = {6}
+} 
+@INPROCEEDINGS{6238193,
+author={Hailan Dong and Ke Zhang and Lin Zhu},
+booktitle ={Proc. of MMWCST},
+title={An algorithm of 3D directional sensor network coverage enhancing based on artificial fish-swarm optimization},
+year={2012},
+pages={1-4}
+}
+@inproceedings{MaZM09,
+  author    = {Huadong Ma and
+               Xi Zhang and
+               Anlong Ming},
+  title     = {A Coverage-Enhancing Method for 3D Directional Sensor Networks},
+  booktitle = {Proc. of INFOCOM},
+  year      = {2009},
+  pages     = {2791-2795}
+}
+
+
+
+@article{UWSN-Survey-2005,
+ author = {I.F.Akyildiz and D.Pompili and T.Melodia},
+ title = {Underwater Acoustic Sensor Networks: Research Challenges},
+ journal = {Ad Hoc Networks},
+ volume = {3},
+ number = {3},
+ year = {2005},
+pages = {257-279}
+}
+@article{ChenHB09,
+  author    = {Xi Chen and
+               Yu-Chi Ho and
+               Hongxing Bai},
+  title     = {Complete coverage and point coverage in randomly distributed
+               sensor networks},
+  journal   = {Automatica},
+  volume    = {45},
+  number    = {6},
+  year      = {2009},
+  pages     = {1549-1553},
+}
+@article{Lynch,
+ author = {Soojin Cho and Chung-Bang Yun and Jerome P. Lynch and Andrew Zimmerman and Bill Spencer Jr. and Tomo Nagayama},
+ title = {Smart Wireless Sensor Technology for Structural Health Monitoring of Civil Structures},
+ journal = {International Journal of Steel Structures},
+ volume = {8},
+ number = {4},
+ year = {2008},
+pages = {267-275}
+}
+@article{a2,
+  author = "HYan Jin and Ling Wang and Ju-Yeon Jo and Yoohwan Kim and Mei Yang and Yingtao Jiang",
+  journal = "IEEE Transactions on Vehicular Technology",
+  number = 3,
+  pages = "1429 - 1442",
+  title = "{EECCR:An} Energy-Efficient $m$-Coverage and $n$-Connectivity Routing Algorithm Under Border Effects in Heterogeneous Sensor Networks",
+  volume = 58,
+  year = 2009,
+}
+@article{6471732,
+author={Chen, Y.-C. and Wen, C.-Y.},
+journal={IEEE Sensors Journal},
+title={Distributed Clustering With Directional Antennas for Wireless Sensor Networks},
+year={2013},
+volume={13},
+number={6},
+pages={2166-2180}
+}
+
+@INPROCEEDINGS{4557751,
+author={Xiaofeng Han and Xiang Cao and Lloyd, E.L. and Chien-Chung Shen},
+booktitle={Proc. of SECON},
+title={Deploying Directional Sensor Networks with Guaranteed Connectivity and Coverage},
+year={2008},
+pages={153-160}
+}
+
+@article{Wu2005,
+ author = {Wu, Kui and Gao, Yong and Li, Fulu and Xiao, Yang},
+ title = {Lightweight deployment-aware scheduling for wireless sensor networks},
+ journal = {Mobile Networks and Applications},
+ volume = {10},
+ number = {6},
+ year = {2005},
+ pages = {837-852},
+} 
+@article{a1,
+ author = "Bulut, Eyuphan and Korpeoglu, Ibrahim",
+ title = "Sleep scheduling with expected common coverage in wireless sensor network",
+ journal = "Wireless Networks",
+ volume = "17",
+ number    = "1",
+ year = "2011",
+ pages = "19-40"
+} 
+
+@article{goes2011,
+  author    = {Fernando de Goes and
+               David Cohen-Steiner and
+               Pierre Alliez and
+               Mathieu Desbrun},
+  title     = {An Optimal Transport Approach to Robust Reconstruction and
+               Simplification of {2D} Shapes},
+  journal   = {Comput. Graph. Forum},
+  volume    = {30},
+  number    = {5},
+  year      = {2011},
+  pages     = {1593-1602},
+  ee        = {http://dx.doi.org/10.1111/j.1467-8659.2011.02033.x},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+@article{Gritzmann92,
+  author    = {Peter Gritzmann and
+               Victor Klee},
+  title     = {Inner and Outer j-Radii of Convex Bodies in Finite-Dimensional
+               Normed Spaces},
+  journal   = {Discrete {\&} Computational Geometry},
+  volume    = {7},
+  year      = {1992},
+  pages     = {255-280},
+  ee        = {http://dx.doi.org/10.1007/BF02187841},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@article{xing05,
+  author    = {Guoliang Xing and
+               Xiaorui Wang and
+               Yuanfang Zhang and
+               Chenyang Lu and
+               Robert Pless and
+               Christopher D. Gill},
+  title     = {Integrated coverage and connectivity configuration for energy
+               conservation in sensor networks},
+  journal   = {ACM Transactions on Sensor Networks},
+  volume    = {1},
+  number    = {1},
+  year      = {2005},
+  pages     = {36-72}
+}
+@article{Appendix,
+author    = "{Supplementary File}",        
+	 note = "[Online] Available: \url{http://www.iitg.ernet.in/stud/g.hari/mass13.pdf}"
+}
+
+
+@ARTICLE{report1,
+author={Sing-Yiu Cheung and Pravin Varaiya},
+journal={Institute of Transport Studies, University of California, Berkeley, Tech. Rep.},
+title={Traffic Surveillance by Wireless Sensor Networks: Final report},
+year={2007}
+}
+
+@inproceedings{5698240,
+  author    = {Birk W. and et. al.},
+  title     = {Road Surface Networks technology enablers for enhanced {ITS}},
+  booktitle = {Proc. of IEEE VNC},
+  year      = {2010},
+pages={152-159}
+ }
+
+@article{TacconiMCCF10,
+  author    = {David Tacconi and et. al.},
+  title     = {Using wireless sensor networks to support intelligent transportation systems},
+  journal   = {Ad Hoc Networks},
+  volume    = {8},
+  number    = {5},
+  year      = {2010},
+  pages     = {462-473}
+}
+
+@ARTICLE{6157101,
+author={Pascale A. and et. al.},
+journal={IET Intell. Transp. Systems},
+title={Wireless sensor networks for traffic management and road safety},
+year={2012},
+volume={6},
+number={1},
+pages={67-77}
+}
+@unpublished{url_water,
+        author = "",
+        title = "Surface Water",
+	 note = {\url{http://www.ysi.com/}}
+}
+
+@unpublished{xbow,
+        author = "",
+        title = "xbow",
+	 note = {\url{http://www.xbow.com/}}
+}
+
+
+@unpublished{url_road,
+        author = "",
+        title = "Road surface",
+	 note = {\url{http://www.iroad.se/index.htm}}
+}
+
+@unpublished{url_rail,
+        author = "",
+        title = "Railway track",
+	 note = {\url{http://metrom-rail.com/track-monitoring-systems}}
+}
+
+@unpublished{url_border,
+        author = "",
+        title = "Country border",
+	 note = {\url{http://www.ultra-ccs.com/details/4}}
+}
+
+@article{Lazos,
+ author = {Loukas Lazos and Radha Poovendran},
+ title = {Stochastic coverage in heterogeneous sensor networks},
+ journal = {ACM Trans. on Sensor Networks},
+ volume = {2},
+ number = {3},
+ year = {2006},
+ pages = {325-358},
+}
+
+@ARTICLE{6411011,
+author={Owojaiye, G. and Sun, Y.},
+journal={IET Intell. Transp. Systems},
+title={Focal design issues affecting the deployment of wireless sensor networks for intelligent transport systems},
+year={2012},
+volume={6},
+number={4},
+pages={432-432}
+}
+
+@article{LiCHLC11,
+  author    = {Wenzhong Li and et. al.},
+  title     = {Communication Cost Minimization in Wireless Sensor and Actor Networks for Road Surveillance},
+  journal   = {IEEE Trans. on Vehicular Tech.},
+  volume    = {60},
+  number    = {2},
+  year      = {2011},
+  pages     = {618-631}
+}
+
+@ARTICLE{6493443,
+author={Jin Zhou and et. al. },
+journal={IEEE Trans. on Intell. Transp. Systems},
+title={A User-Customizable Urban Traffic Information Collection Method Based on Wireless Sensor Networks},
+year={2013},
+volume={14},
+number={3},
+pages={1119-1128}
+}
+
+@article{SkordylisT11,
+  author    = {Antonios Skordylis and Niki Trigoni},
+  title     = {Efficient Data Propagation in Traffic-Monitoring Vehicular Networks},
+  journal={IEEE Trans. on Intell. Transp. Systems},
+  volume    = {12},
+  number    = {3},
+  year      = {2011},
+  pages     = {680-694}
+}
+
+@article{JerbiSRG09,
+  author    = {Moez Jerbi and et. al.},
+  title     = {Towards Efficient Geographic Routing in Urban Vehicular Networks},
+  journal   = {IEEE Trans. on Vehicular Tech.},
+  volume    = {58},
+  number    = {9},
+  year      = {2009},
+  pages     = {5048-5059}
+}
+
+@ARTICLE{5676214,
+author={Rui Wang and et. al.},
+  journal   = {IEEE Trans. on Vehicular Tech.},
+title={Easi{T}ia: A Pervasive Traffic Information Acquisition System Based on Wireless Sensor Networks},
+year={2011},
+volume={12},
+number={2},
+pages={615-621}
+}
+
+@article{2218749,
+ author = {Cheng and et. al.},
+ title = {Development and Field Test of a Laser-based Nonintrusive Detection System for Identification of Vehicles on the Highway},
+  journal={IEEE Trans. on Intell. Transp. Systems},
+ volume = {6},
+ number = {2},
+ year = {2005},
+ pages = {147-155}
+}
+
+@ARTICLE{4114330,
+author={Alessandretti, G. and Broggi, A. and Cerri, P.},
+  journal={IEEE Trans. on Intell. Transp. Systems},
+title={Vehicle and Guard Rail Detection Using Radar and Vision Data Fusion},
+year={2007},
+volume={8},
+number={1},
+pages={95-105}
+}
+
+@article{wang,
+ author = {Bang Wang},
+ title = {Coverage problems in sensor networks: A survey},
+ journal = {ACM Computing Surveys},
+ volume = {43},
+ number = {4},
+ year = {2011},
+ pages = {32:1-32:53}
+}
+
+@inproceedings{Zhou04,
+ author = {Zhou, Gang and et. al.},
+ title = {Impact of radio irregularity on wireless sensor networks},
+ booktitle = {Proc. of Mobisys},
+ year = {2004},
+ pages = {125-138}
+} 
+
+@ARTICLE{4468710,
+author={Chia-Ho Ou and Kuo-Feng Ssu},
+journal={IEEE Trans. on Mobile Computing},
+title={Sensor Position Determination with Flying Anchors in Three-Dimensional Wireless Sensor Networks},
+year={2008},
+volume={7},
+number={9},
+pages={1084-1097}
+}
+
+@ARTICLE{Seh13,
+author={Seh Chun Ng and Guoqiang Mao and Anderson, B.D.O.},
+journal={IEEE Trans. on Wireless Communications},
+title={Critical Density for Connectivity in {2D} and {3D} Wireless Multi-Hop Networks},
+year={2013},
+volume={12},
+number={4},
+pages={1512-1523}}
+
+@ARTICLE{Xiaoyuan09,
+author={Xiaoyuan Ta and Guoqiang Mao and Anderson, B. D O},
+journal={IEEE Trans. on Mobile Computing},
+title={On the Phase Transition Width of K-Connectivity in Wireless Multihop Networks},
+year={2009},
+volume={8},
+number={7},
+pages={936-949}}
+
+@article{Penrose99,
+  author    = {Mathew D. Penrose},
+  title     = {On k-connectivity for a geometric random graph},
+  journal   = {Random Struct. Algorithms},
+  volume    = {15},
+  number    = {2},
+  year      = {1999},
+  pages     = {145-164}
+}
+
+@unpublished{url_water,
+        author = "",
+        title = "Surface Water",
+	 note = {\url{http://www.ysi.com/}}
+}
+
+@unpublished{url_road,
+        author = "",
+        title = "Road surface",
+	 note = {\url{http://www.iroad.se/index.htm}}
+}
+
+@unpublished{url_rail,
+        author = "",
+        title = "Railway track",
+	 note = {\url{http://metrom-rail.com/track-monitoring-systems}}
+}
+
+@unpublished{url_border,
+        author = "",
+        title = "Country border",
+	 note = {\url{http://www.ultra-ccs.com/details/4}}
+}
+
+@article{b12,
+  author    = "Yigal Bejerano",
+  title     = "Coverage Verification without Location Information",
+  journal   = "IEEE Transactions on Mobile Computing",
+  volume    = "11",
+  number    = "4",
+  year      = "2012",
+  pages     = "631-643"}
+}
+
+
+@INPROCEEDINGS{hariprabhat,
+author={Hari Prabhat Gupta and S. V. Rao and T. Venkatesh},
+booktitle={Proc. of COMSNETS}, 
+title={Sleep scheduling for partial coverage in heterogeneous wireless sensor networks},
+year={2013},
+pages={1-10}
+}
+
+@ARTICLE{4468710,
+author={Chia-Ho Ou and Kuo-Feng Ssu},
+journal={IEEE Transactions on Mobile Computing},
+title={Sensor Position Determination with Flying Anchors in Three-Dimensional Wireless Sensor Networks},
+year={2008},
+volume={7},
+number={9},
+pages={1084-1097}}
+
+@ARTICLE{ammari09,
+author={ Habib M. Ammari and Sajal K. Das},
+journal={IEEE Transactions on Parallel and Distributed Systems}, 
+title={Critical Density for Coverage and Connectivity in Three-Dimensional Wireless Sensor Networks Using Continuum Percolation},
+year={2009},
+volume={20},
+number={6},
+pages={872-885}}
+
+
+@inproceedings{sensys09,
+ author = {Mo, Lufeng and He, Yuan and Liu, Yunhao and Zhao, Jizhong and Tang, Shao-Jie and Li, Xiang-Yang and Dai, Guojun},
+ title = {Canopy closure estimates with GreenOrbs: sustainable sensing in the forest},
+ booktitle = {Proc. of ACM SenSys},
+ year = {2009},
+ pages = {99-112}
+} 
+@ARTICLE{5508968,
+author={Ka-Shun Hung and King-Shan Lui},
+journal={IEEE Transactions on Wireless Communications},
+title={On Perimeter Coverage in Wireless Sensor Networks},
+year={2010},
+volume={9},
+number={7},
+pages={2156-2164}}
+
+@ARTICLE{4290041,
+author={Bang Wang and Kee Chaing Chua and Srinivasan, V. and Wei Wang},
+journal={IEEE Transactions on Wireless Communications},
+title={Information Coverage in Randomly Deployed Wireless Sensor Networks},
+year={2007},
+volume={6},
+number={8},
+pages={2994-3004}}
+@inproceedings{paillard,
+  author    = {Gabriel Paillard and
+               Vlady Ravelomanana},
+  title     = {Limit Theorems for Degree of Coverage and Lifetime in Large
+               Sensor Networks},
+  booktitle = {Proc. of INFOCOM},
+  year      = {2008},
+  pages     = {2011-2019}
+}
+@article{Lazos,
+ author = {Loukas Lazos and Radha Poovendran},
+ title = {Stochastic coverage in heterogeneous sensor networks},
+ journal = {ACM Transactions on Sensor Networks},
+ volume = {2},
+ number = {3},
+ year = {2006},
+ pages = {325-358},
+}
+@article{wan,
+ author = "Peng-Jun Wan and Chih-Wei Yi",
+ title = "Coverage by randomly deployed wireless sensor networks",
+ journal = "IEEE/ACM Transactions on Information Theory",
+ year      = "2006",
+ volume = "52",
+number= "6", 
+pages = "2658-2669",
+} 
+@inproceedings{zhang1,
+  author    = {Honghai Zhang and
+               Jennifer C. Hou},
+  title     = {Is Deterministic Deployment Worse than Random Deployment
+               for Wireless Sensor Networks?},
+  booktitle = {Proc. of INFOCOM},
+  year      = {2006},
+  pages = {1-13}
+}
+
+@BOOK{book1,
+   author = "Daniel Zwillinger",
+   title= "CRC Standard Mathematical Tables and Formulae, {$32^{nd}$} Edition ",
+   publisher = "CRC Press",
+   year = "1987",
+   pages= {123--124}
+   }
+
+@BOOK{book2,
+   author = "P. Hall",
+   title= "Introduction to the Theory of Coverage Processes",
+   publisher = "John Wiley {\&} Sons",
+   year = "1988"
+   }
+
+@article{bookprob2,
+  author    = "Rick Durrett",
+  title     = "Elementary Probability for Applications",
+  journal   = "Cambridge University Press",
+  year      = "2009"
+  }
+
+
+@article{Yen,
+  author    = {Li-Hsing Yen and
+               Chang Wu Yu and
+               Yang-Min Cheng},
+  title     = {Expected {\it k}-coverage in wireless sensor networks},
+  journal   = {Ad Hoc Networks},
+  volume    = {4},
+  number    = {5},
+  year      = {2006},
+  pages     = {636-650},
+  ee        = {http://dx.doi.org/10.1016/j.adhoc.2005.07.001},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+
+@article{WSN-Survey-2008,
+ author = {J.Yick and B.Mukherjee and B.Ghoshal},
+ title = {Wireless Sensor Network Survey},
+ journal = {Computer Networks},
+ volume = {52},
+ number = {12},
+ year = {2008},
+pages = {2292-2330}
+}
+@article{ChenHB09,
+  author    = {Xi Chen and
+               Yu-Chi Ho and
+               Hongxing Bai},
+  title     = {Complete coverage and point coverage in randomly distributed
+               sensor networks},
+  journal   = {Automatica},
+  volume    = {45},
+  number    = {6},
+  year      = {2009},
+  pages     = {1549-1553},
+}
+
+@article{Wu2005,
+ author = {Wu, Kui and Gao, Yong and Li, Fulu and Xiao, Yang},
+ title = {Lightweight deployment-aware scheduling for wireless sensor networks},
+ journal = {Mobile Networks and Applications},
+ volume = {10},
+ number = {6},
+ year = {2005},
+ pages = {837-852},
+} 
+@article{a1,
+ author = "Bulut, Eyuphan and Korpeoglu, Ibrahim",
+ title = "Sleep scheduling with expected common coverage in wireless sensor network",
+ journal = "Wireless Networks",
+ volume = "17",
+ number    = "1",
+ year = "2011",
+ pages = "19-40"
+} 
+
+@article{goes2011,
+  author    = {Fernando de Goes and
+               David Cohen-Steiner and
+               Pierre Alliez and
+               Mathieu Desbrun},
+  title     = {An Optimal Transport Approach to Robust Reconstruction and
+               Simplification of {2D} Shapes},
+  journal   = {Comput. Graph. Forum},
+  volume    = {30},
+  number    = {5},
+  year      = {2011},
+  pages     = {1593-1602},
+  ee        = {http://dx.doi.org/10.1111/j.1467-8659.2011.02033.x},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+@article{Gritzmann92,
+  author    = {Peter Gritzmann and
+               Victor Klee},
+  title     = {Inner and Outer j-Radii of Convex Bodies in Finite-Dimensional
+               Normed Spaces},
+  journal   = {Discrete {\&} Computational Geometry},
+  volume    = {7},
+  year      = {1992},
+  pages     = {255-280},
+  ee        = {http://dx.doi.org/10.1007/BF02187841},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@article{xing05,
+  author    = {Guoliang Xing and
+               Xiaorui Wang and
+               Yuanfang Zhang and
+               Chenyang Lu and
+               Robert Pless and
+               Christopher D. Gill},
+  title     = {Integrated coverage and connectivity configuration for energy
+               conservation in sensor networks},
+  journal   = {ACM Transactions on Sensor Networks},
+  volume    = {1},
+  number    = {1},
+  year      = {2005},
+  pages     = {36-72}
+}
+@article{Appendix,
+author    = "{Supplementary File}",        
+	 note = "[Online] Available: \url{http://www.iitg.ernet.in/stud/g.hari/mass13.pdf}"
+}
+
+
+
+@article{Liu06,
+  author    = {Chong Liu and
+               Kui Wu and
+               Yang Xiao and
+               Bo Sun},
+  title     = {Random Coverage with Guaranteed Connectivity: Joint Scheduling
+               for Wireless Sensor Networks},
+  journal   = {IEEE Transactions on Parallel and Distributed Systems},
+  volume    = {17},
+  number    = {6},
+  year      = {2006},
+  pages     = {562-575}
+}
+@INPROCEEDINGS{Xiaole09,
+author={Xiaole Bai and Chuanlin Zhang and Dong Xuan and Weijia Jia},
+booktitle={Proc. of INFOCOM 2009}, 
+title={Full-Coverage and k-Connectivity (k=14,6) Three Dimensional Networks},
+year={2009},
+pages={388-396}}
+
+@ARTICLE{ammari09,
+author={ Habib M. Ammari and Sajal K. Das},
+journal={IEEE Transactions on Parallel and Distributed Systems}, 
+title={Critical Density for Coverage and Connectivity in Three-Dimensional Wireless Sensor Networks Using Continuum Percolation},
+year={2009},
+volume={20},
+number={6},
+pages={872-885}}
+@article{HeCS12,
+  author    = {Shibo He and
+               Jiming Chen and
+               Youxian Sun},
+  title     = {Coverage and Connectivity in Duty-Cycled Wireless Sensor
+               Networks for Event Monitoring},
+  journal   = {IEEE Transactions on Parallel and Distributed Systems},
+  volume    = {23},
+  number    = {3},
+  year      = {2012},
+  pages     = {475-482}
+}
+
+@article{HefeedaA10,
+  author    = {Mohamed Hefeeda and
+               Hossein Ahmadi},
+  title     = {Energy-Efficient Protocol for Deterministic and Probabilistic
+               Coverage in Sensor Networks},
+  journal   = {IEEE Transactions on Parallel and Distributed Systems},
+  volume    = {21},
+  number    = {5},
+  year      = {2010},
+  pages     = {579-593}
+}
+
+@article{RenLWCZ07,
+  author    = {Shansi Ren and
+               Qun Li and
+               Haining Wang and
+               Xin Chen and
+               Xiaodong Zhang},
+  title     = {Design and Analysis of Sensing Scheduling Algorithms under
+               Partial Coverage for Object Detection in Sensor Networks},
+  journal   = {IEEE Transactions on Parallel and Distributed Systems},
+  volume    = {18},
+  number    = {3},
+  year      = {2007},
+  pages     = {334-350}
+}
+
+
+@article{WSN-Survey-2008,
+ author = {J.Yick and B.Mukherjee and B.Ghoshal},
+ title = {Wireless Sensor Network Survey},
+ journal = {Computer Networks},
+ volume = {52},
+ number = {12},
+ year = {2008},
+pages = {2292-2330}
+}
+
+@article{UWSN-Survey-2005,
+ author = {I.F.Akyildiz and D.Pompili and T.Melodia},
+ title = {Underwater Acoustic Sensor Networks: Research Challenges},
+ journal = {Ad Hoc Networks},
+ volume = {3},
+ number = {3},
+ year = {2005},
+pages = {257-279}
+}
+
+@inproceedings{Mainwaring,
+ author = {Alan Mainwaring and Joseph Polastre and Robert Szewczyk and David Culler and John Anderson},
+ title = {Wireless sensor networks for habitat monitoring},
+booktitle = {Proc. of WSNA},
+ year = {2002},
+ pages = {88-97}
+}
+
+@article{Lynch,
+ author = {Soojin Cho and Chung-Bang Yun and Jerome P. Lynch and Andrew Zimmerman and Bill Spencer Jr. and Tomo Nagayama},
+ title = {Smart Wireless Sensor Technology for Structural Health Monitoring of Civil Structures},
+ journal = {International Journal of Steel Structures},
+ volume = {8},
+ number = {4},
+ year = {2008},
+pages = {267-275}
+}
+
+@article{Heidemann,
+ author = {John Heidemann and Milica Stojanovic and Michele Zorzi},
+ title = {Underwater sensor networks: Applications, advances and challenges},
+ journal = {Philosophical Transactions of the Royal Society},
+ volume = {370},
+ number = {1958},
+ year = {2012},
+pages = {158-175}
+}
+
+
+
+
+@inproceedings{Bettstetter,
+ author = {Christian Bettstetter},
+ title = {On the minimum node degree and connectivity of a wireless multihop network},
+ booktitle = {Proc. of MOBIHOC},
+ year = {2002},
+ pages = {80-91}
+} 
+
+@ARTICLE{Xiaoyuan,
+author={Xiaoyuan Ta and Guoqiang Mao and Brian.D.O. Anderson},
+journal={IEEE Transactions on Mobile Computing}, 
+title={On the Phase Transition Width of {K}-Connectivity in Wireless Multihop Networks},
+year={2009},
+volume={8},
+number={7},
+pages={936 -949}
+}
+
+
+@article{Ravelomanana,
+  author    = {Vlady Ravelomanana},
+  title     = {Extremal Properties of Three-Dimensional Sensor Networks
+               with Applications},
+  journal   = {IEEE Transactions on Mobile Computing},
+  volume    = {3},
+  number    = {3},
+  year      = {2004},
+  pages     = {246-257},
+  ee        = {http://doi.ieeecomputersociety.org/10.1109/TMC.2004.23},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@article{Zhang,
+  author    = {Chuanlin Zhang and
+               Xiaole Bai and
+               Jin Teng and
+               Dong Xuan and
+               Weijia Jia},
+  title     = {Constructing low-connectivity and full-coverage three dimensional
+               sensor networks},
+  journal   = {IEEE Journal on Selected Areas in Communications},
+  volume    = {28},
+  number    = {7},
+  year      = {2010},
+  pages     = {984-993}
+}
+
+
+@article{su2,
+ author = "Wan and Peng-Jun and Yi and Chih-Wei",
+ title = "Coverage by randomly deployed wireless sensor networks",
+ journal = "IEEE/ACM Transactions on Information Theory",
+ year      = "2006",
+ volume = "52",
+number= "6", 
+pages = "2658-2669"
+} 
+
+@article{kcover,
+  author    = {Santosh Kumar and
+               Ten-Hwang Lai and
+               J{\'o}zsef Balogh},
+  title     = {On k-coverage in a mostly sleeping sensor network},
+  journal   = {Wireless Networks},
+  volume    = {14},
+  number    = {3},
+  year      = {2008},
+  pages     = {277-294},
+  ee        = {http://dx.doi.org/10.1007/s11276-006-9958-8},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+
+@article{multi,
+ author = "Norman C. Beaulieu",
+ title = "On the Generalized Multinomial Distribution, Optimal Multinomial Detectors, and Generalized Weighted Partial Decision Detectors",
+ journal = "IEEE Transactions on Communications",
+ year      = "1991",
+ volume = "39",
+number= "2", 
+pages = "193-194"
+} 
+
+@inproceedings{12341,
+author = {Wei Feng and Jaafar M.H. Elmirghani},
+title = {Energy Efficiency in the Cluster-Based Linear Ad-hoc Wireless Networks},
+booktitle ={Proc. of NGMA},
+year = {2009},
+pages = {395-400},
+address = {Los Alamitos, CA, USA},
+}
+@article{energy-survey06,
+ author = {L. Wang and Y. Xiao},
+ title = {A survey of energy-efficient scheduling mechanisms in sensor networks},
+ journal = {Mobile Networks and Applications},
+ volume = {11},
+ number = {5},
+ year = {2006},
+pages = {723-740}
+}
+
+@article{Zhou09,
+ author = {Zhou, Zongheng and Das, Samir R. and Gupta, Himanshu},
+ title = {Variable radii connected sensor cover in sensor networks},
+ journal = {ACM Transactions on Sensor Networks},
+ volume = {5},
+ number = {1},
+ year = {2009},
+pages = {89-124}
+} 
+
+@article{Zhou09,
+ author = {Zhou, Zongheng and Das, Samir R. and Gupta, Himanshu},
+ title = {Variable radii connected sensor cover in sensor networks},
+ journal = {ACM Transactions on Sensor Networks},
+ volume = {5},
+ number = {1},
+ year = {2009},
+pages = {89-124}
+} 
+
+@article{Gritzmann92,
+  author    = {Peter Gritzmann and
+               Victor Klee},
+  title     = {Inner and Outer j-Radii of Convex Bodies in Finite-Dimensional
+               Normed Spaces},
+  journal   = {Discrete {\&} Computational Geometry},
+  volume    = {7},
+  year      = {1992},
+  pages     = {255-280},
+  ee        = {http://dx.doi.org/10.1007/BF02187841},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+@inproceedings{Zhou04,
+ author = {Zhou, Gang and He, Tian and Krishnamurthy, Sudha and Stankovic, John A.},
+ title = {Impact of radio irregularity on wireless sensor networks},
+ booktitle = {Proc. of Mobisys},
+ year = {2004},
+ pages = {125-138}
+} 
+
+
+
+@unpublished{url,
+        author = "",
+        title = "The Network Simulator - ns-2.34",
+	 note = {\url{http://www.isi.edu/nsnam/ns}}
+}
+
+@unpublished{url_new,
+	 note = "\url{http://srtm.csi.cgiar.org/index.asp}",
+	 year={2013}
+}
+
+@article{cc2,
+  author    = {Honghai Zhang and
+               Jennifer C. Hou},
+  title     = {Maintaining Sensing Coverage and Connectivity in Large Sensor
+               Networks},
+  journal   = {Ad Hoc {\&} Sensor Wireless Networks},
+  volume    = {1},
+  number    = {1-2},
+ pages     = "89-123",
+  year      = {2005},
+}
+@article{su1,
+  author    = "Honghai Zhang and
+               Jennifer C. Hou",
+  title     = "On the upper bound of $\alpha$-lifetime for large
+               sensor networks",
+  journal   = "ACM Transations of Sensor Network",
+  volume    = "1",
+  number    = "2",
+  year      = "2005",
+  pages     = "272-300",
+  }
+
+@inproceedings{Bai05,
+ author = {Bai, Hongxing and Chen, Xi and Ho, Yu-Chi and Guan, Xiaohong},
+ title = {Percentage coverage configuration in wireless sensor networks},
+booktitle = {Proc. of ISPA},
+ year = {2005},
+ location = {Nanjing, China},
+ pages = {780-791},
+ address = {Berlin, Heidelberg},
+} 
+
+
+@inproceedings{n01,
+ author = {Wook Choi, and S. K. Das},
+ title = {Trade-off between coverage and data reporting latency for energy-conserving data gathering in wireless sensor networks},
+ series = {Proc. of MASS},
+ year = {2004},
+ address = {Fort Lauderdale, USA},
+ pages = {503-512},
+} 
+@article{Lazo06,
+ author = {Lazos, Loukas and Poovendran, Radha},
+ title = {Stochastic coverage in heterogeneous sensor networks},
+ journal = {ACM Transactions on Sensor Networks},
+ volume = {2},
+ number = {3},
+ year = {2006},
+ pages = {325-358},
+} 
+@article{ChenHB09,
+  author    = {Xi Chen and
+               Yu-Chi Ho and
+               Hongxing Bai},
+  title     = {Complete coverage and point coverage in randomly distributed
+               sensor networks},
+  journal   = {Automatica},
+  volume    = {45},
+  number    = {6},
+  year      = {2009},
+  pages     = {1549-1553},
+}
+
+@article{HefeedaB09,
+  author    = {Mohamed Hefeeda and
+               Majid Bagheri},
+  title     = {Forest Fire Modeling and Early Detection using Wireless
+               Sensor Networks},
+  journal   = {Ad Hoc {\&} Sensor Wireless Networks},
+  volume    = {7},
+  number    = {3-4},
+  year      = {2009},
+  pages     = {169-224},
+}
+
+@article{Wu2005,
+ author = {Wu, Kui and Gao, Yong and Li, Fulu and Xiao, Yang},
+ title = {Lightweight deployment-aware scheduling for wireless sensor networks},
+ journal = {Mobile Networks and Applications},
+ volume = {10},
+ number = {6},
+ year = {2005},
+ pages = {837-852},
+} 
+
+
+@article{su2,
+ author = "Wan and Peng-Jun and Yi and Chih-Wei",
+ title = "Coverage by randomly deployed wireless sensor networks",
+ journal = "IEEE/ACM Transactions on Information Theory",
+ year      = "2006",
+ volume = "52",
+number= "6", 
+pages = "2658-2669",
+} 
+@INPROCEEDINGS{P8,
+    author = "Benyuan Liu and Don Towsley",
+    title = "A study of the coverage of large-scale sensor networks",
+    booktitle = "Proc. of MASS",
+    year = "2004",
+    pages = "475-483",
+address="Fort Lauderdale, FL"
+}
+
+@article{su3,
+  author    = "Quanhong Wang and
+               Kenan Xu and
+               Glen Takahara and
+               Hossam S. Hassanein",
+  title     = "Device Placement for Heterogeneous Wireless Sensor Networks: Minimum Cost with Lifetime Constraints",
+  journal   = "IEEE Transactions on Wireless Communications",
+  volume    = "6",
+  number    = "7",
+  year      = "2007",
+  pages     = "2444-2453",
+}
+@article{su4,
+  author    = "Kenan Xu and
+               Hossam S. Hassanein and
+               Glen Takahara and
+               Quanhong Wang",
+  title     = "Relay Node Deployment Strategies in Heterogeneous Wireless
+               Sensor Networks",
+  journal   = "IEEE Transactions on Mobile Computing",
+  volume    = "9",
+  number    = "2",
+  year      = "2010",
+  pages     = "145-159",
+}
+
+@article{YenYC06,
+  author    = "Li-Hsing Yen and
+               Chang Wu Yu and
+               Yang-Min Cheng",
+  title     = "Expected {\it k}-coverage in wireless sensor networks",
+  journal   = "Ad Hoc Networks",
+  volume    = "4",
+  number    = "5",
+  year      = "2006",
+  pages     = "636-650",
+  }
+ 
+
+
+@inproceedings{a3,
+  author    = "Xiao Wang and
+               Xinbing Wang and
+               Jun Zhao",
+  title     = "Impact of Mobility and Heterogeneity on Coverage and Energy
+               Consumption in Wireless Sensor Networks",
+  booktitle = "Proc. of IEEE ICDCS",
+  year      = "2011",
+  pages     = "477-487"
+}
+@inproceedings{a4,
+    author = "Yong Gao and Kui Wu and Fulu Li",
+    title = "Analysis on the Redundancy of Wireless Sensor Networks",
+    booktitle = "Proc. of WSNA",
+    year = "2003",
+    pages = "108-114",
+    publisher = "ACM Press}
+}
+
+@article{a5,
+  title = "Scheduling protocols for homogeneous and heterogeneous k-covered wireless sensor networks",
+  author = "Habib M. Ammari and Sajal K. Das",
+  year = "2011",
+  doi = "http://dx.doi.org/10.1016/j.pmcj.2010.08.007",
+  tags = "wireless sensor networks",
+  researchr = "http://researchr.org/publication/AmmariD11",
+  cites = "0",
+  citedby = "0",
+  journal = "Pervasive and Mobile Computing",
+  volume = "7",
+  number = "1",
+  pages = "79-97",
+}
+
+@inproceedings{a6,
+  author    = "Honghai Zhang and
+               Jennifer C. Hou",
+  title     = "Is Deterministic Deployment Worse than Random Deployment
+               for Wireless Sensor Networks?",
+  booktitle = "Proc. of INFOCOM",
+  year      = "2006"
+}
+
+@article{a7,
+author    = "E. W. Weisstein",        
+         title = "Sphere-Sphere intersection",
+	 note = "[Online] Available: \url{http://mathworld.wolfram.com/Sphere-SphereIntersection.html}",
+        year={2013}
+}
+@unpublished{a8,
+        author = "P. Hall",
+        title = " Introduction to the Theory of Coverage Processes",
+        year="1988"
+}
+@article{a9,
+  author    = "Chi-Fu Huang and
+               Yu-Chee Tseng and
+               Hsiao-Lu Wu",
+  title     = "Distributed protocols for ensuring both coverage and connectivity
+               of a wireless sensor network",
+  journal   = "ACM Transactions on Sensor Networks",
+  volume    = "3",
+  number    = "1",
+  year      = "2007",
+  pages     = "1-24",
+  ee        = "http://doi.acm.org/10.1145/1210669.1210674",
+  bibsource = "DBLP, http://dblp.uni-trier.de}
+}
+@inproceedings{Huang03,
+ author = {Chi-Fu Huang  and Yu-Chee Tseng},
+ title = {The coverage problem in a wireless sensor network},
+ booktitle= {Proc. of WSNA},
+ year = {2003},
+ address = {San Diego, CA, USA},
+ pages = {115-121},
+} 
+
+@inproceedings{Haas2006,
+  author    = {S. Alam and Z. Haas},
+  title     = {Coverage and connectivity in three-dimensional networks},
+  booktitle = {Proc. of ACM Mobicom},
+  year      = {2006},
+  pages     = {346-357}
+}
+
+
+@article{a10,
+  author    = "S. Meguerdichian and
+               M. Potkonjak",
+  title     = "Low power 0/1 coverage and scheduling techniques in sensor networks",
+  journal   = "UCLA Technical Reports 030001",
+  year      = "January 2003",
+}
+@article{b12,
+  author    = "Yigal Bejerano",
+  title     = "Coverage Verification without Location Information",
+  journal   = "IEEE Transactions on Mobile Computing",
+  volume    = "11",
+  number    = "4",
+  year      = "2012",
+  pages     = "631-643",
+ bibsource = "DBLP, http://dblp.uni-trier.de}
+}
+@article{a11,
+  title         = "Crossbow Technology Inc.",
+   note          = "http://www.xbow.com/",
+  year          = "available Sept. 2009",
+}
+
+@article{book1,
+  author    = "P. Hall",
+  title     = "Introduction to the Theory of Coverage Processes",
+  journal   = "John Wiley \& Sons",
+  year      = "1988"
+  }
+
+
+
+
+@inproceedings{P6,
+  author    = {Santosh Kumar and
+               Ten-Hwang Lai and
+               J{\'o}zsef Balogh},
+  title     = {On k-coverage in a mostly sleeping sensor network},
+  booktitle = {Proc. of MOBICOM},
+  year      = {2004},
+  pages     = {144-158},
+ address = {Philadelphia, PA, USA}
+}
+
+@article{Yingshu12,
+  author    = {Yingshu Li and
+               Chinh T. Vu and
+               Chunyu Ai and
+               Guantao Chen and
+               Yi Zhao},
+  title     = {Transforming Complete Coverage Algorithms to Partial Coverage
+               Algorithms for Wireless Sensor Networks},
+  journal   = {IEEE Transactions on Parallel and Distributed Systems },
+  volume    = {22},
+  number    = {4},
+  year      = {2011},
+  pages     = {695-703}
+}
+
+@INPROCEEDINGS{cc13,
+    author = {Di Tian and Nicolas D. Georganas},
+    title = {A Coverage-Preserving Node Scheduling Scheme for Large Wireless Sensor Networks.},
+    booktitle = {Proc. of 1st ACM international workshop on Wireless sensor networks and applications},
+    year = {2002},
+    pages = {32-41},
+    publisher = {ACM Press}
+}
+@INPROCEEDINGS{b1,
+    author = {Mihaela Cardei and Jie Wu},
+    title = {Coverage in wireless sensor networks.},
+    booktitle = {Handbook of sensor networks},
+    year = {2004},
+    publisher = {CRC Press, chapter 19}
+}
+
+
+@inproceedings{Gao03,
+ author = {Gao, Yong and Wu, Kui and Li, Fulu},
+ title = {Analysis on the redundancy of wireless sensor networks},
+ series = {Proc. of WSNA},
+ year = {2003},
+ location = {San Diego, CA, USA},
+ pages = {108--114},
+ address = {New York, NY, USA},
+} 
+@inproceedings{Meng10,
+ author = {Meng, Fanzhi and Wang, Huanzhao and Wei, Guojian and Fan, Zhiying},
+ title = {Energy-efficient and coverage-specific node scheduling for wireless sensor networks},
+booktitle  = {Proc. of MSWIM},
+ year = {2010},
+ location = {Bodrum, Turkey},
+ pages = {368-375}
+} 
+
+@inproceedings{Geo08,
+  author    = {Yiwei Wu and
+               Chunyu Ai and
+               Shan Gao and
+               Yingshu Li},
+  title     = {p-Percent Coverage in Wireless Sensor Networks},
+  booktitle = {Proceedings of WASA},
+  year      = {2008},
+  pages     = {200-211},
+ address = {Dallas, TX, USA},
+}
+
+@article{Li11,
+ author = {Yingshu Li and Chunyu Ai and Zhipeng Cai and Raheem Beyah},
+ title = {Sensor scheduling for p-percent coverage in wireless sensor networks},
+ journal = {Cluster Computing},
+ volume = {14},
+ number = {1},
+ year = {2011},
+ pages = {27-40},
+} 
+
+@inproceedings{wei05,
+    author = {Wei Mo and Daji Qiao and Zhengdao Wang},
+    title = {Mostly-Sleeping Wireless Sensor Networks: Connectivity, k-Coverage, and α-Lifetime},
+    booktitle = {The 43rd Annual Allerton Conference on Communication, Control, and Computing},
+ year = {2005},
+ location = {Monticello, IL},
+} 
+@inproceedings{Bai05,
+ author = {Bai, Hongxing and Chen, Xi and Ho, Yu-Chi and Guan, Xiaohong},
+ title = {Percentage coverage configuration in wireless sensor networks},
+ series = {ISPA},
+ year = {2005},
+ location = {Nanjing, China},
+ pages = {780-791},
+ address = {Berlin, Heidelberg},
+} 
+@article{Yardibi10,
+ author = {Yardibi, Tarik and Karasan, Ezhan},
+ title = {A distributed activity scheduling algorithm for wireless sensor networks with partial coverage},
+ journal = {Wireless Networks},
+ volume = {16},
+ number = {1},
+ year = {2010},
+ pages = {213-225},
+} 
+@inproceedings{cc10,
+ author = {Aslam, Nauman and Robertson, William},
+ title = {Distributed coverage and connectivity in three dimensional wireless sensor networks},
+ booktitle = {IWCMC},
+ year = {2010},
+ location = {Caen, France},
+ pages = {1141-1145},
+ address = {New York, NY, USA},
+} 
+
+@article{cc8,
+  author    = {Yingshu Li and
+               Shan Gao},
+  title     = {Designing {\it k}-coverage schedules in wireless sensor
+               networks},
+  journal   = {Journal of Combinatorial Optimization },
+  volume    = {15},
+  number    = {2},
+  year      = {2008},
+  pages     = {127-146},
+}
+@article{a1,
+ author = "Bulut, Eyuphan and Korpeoglu, Ibrahim",
+ title = "Sleep scheduling with expected common coverage in wireless sensor network",
+ journal = "Wireless Networks",
+ issue_date = "2011",
+ volume = "17",
+ number    = "1",
+ year = "2011",
+ pages = "19-40",
+} 
+@article{b12,
+  author    = "Yigal Bejerano",
+  title     = "Coverage Verification without Location Information",
+  journal   = "IEEE Transactions on Mobile Computing",
+  volume    = "11",
+  number    = "4",
+  year      = "2012",
+  pages     = "631-643",
+ bibsource = "DBLP, http://dblp.uni-trier.de}
+}
+@article{a7,
+author    = "E. W. Weisstein",        
+         title = "Circle-circle intersection",
+	 note = "[Online] Available: \url{http://mathworld.wolfram.com/Circle-CircleIntersection.html}",
+        year={2012}
+}
+
+@article{sphere123,
+author    = "E. W. Weisstein",        
+         title = "Sphere-Sphere Intersection",
+	 note = "[Online] Available: \url{http://mathworld.wolfram.com/Sphere-SphereIntersection.html}",
+        year={2012}
+}
+
+
+
+@article{Wang03,
+    author = {Guoliang Xing and Xiaorui Wang and Yuanfang Zhang and Chenyang Lu and Robert Pless and Christopher Gill},
+    title = {Integrated coverage and connectivity configuration for energy conservation in sensor networks},
+    journal = {ACM Transactions on Sensor Networks},
+    year = {2005},
+    volume = {1},
+ number = {1},
+    pages = {36-72}
+}
+@article{Hef,
+ author = {Hefeeda, Mohamed and Ahmadi, Hossein},
+ title = {Energy-Efficient Protocol for Deterministic and Probabilistic Coverage in Sensor Networks},
+ journal = {IEEE Transactions on Parallel and Distributed Systems},
+ volume = {21},
+ number = {5},
+ year = {2010},
+ pages = {579-593},
+} 
+@INPROCEEDINGS{Ye03,
+    author = {Fan Ye and Gary Zhong and Jesse Cheng and Songwu Lu and Lixia Zhang},
+    title = {PEAS: A Robust Energy Conserving Protocol for Long-lived Sensor Networks},
+    booktitle = {},
+ series = {ICDCS '03},
+ year = {2003},
+ location = {San Diego, CA, USA},
+ pages = {108--114},
+
+}
+@article{Ammari12,
+ author = {Ammari, Habib M. and Das, Sajal K.},
+ title = {Centralized and Clustered k-Coverage Protocols for Wireless Sensor Networks},
+ journal = {IEEE Transactions on Computers},
+ volume = {61},
+ number = {1},
+ year = {2012},
+ pages = {118-133},
+} 
+
+
+
+@article{HuangTL07,
+  author    = {Chi-Fu Huang and
+               Yu-Chee Tseng and
+               Li-Chu Lo},
+  title     = {The Coverage Problem in Three-Dimensional Wireless Sensor
+               Networks},
+  journal   = {Journal of Interconnection Networks},
+  volume    = {8},
+  number    = {3},
+  year      = {2007},
+  pages     = {209-227}
+}
+@inproceedings{AmmariD08,
+  author    = {Habib M. Ammari and
+               Sajal K. Das},
+  title     = {Joint k-Coverage and Hybrid Forwarding in Duty-Cycled Three-Dimensional
+               Wireless Sensor Networks},
+  booktitle = {Proc. of SECON},
+  year      = {2008},
+  pages     = {170-178}
+ }
+ 
+@article{AmmariD10,
+  author    = {Habib M. Ammari and
+               Sajal K. Das},
+  title     = {A Study of k-Coverage and Measures of Connectivity in {3D} Wireless Sensor Networks},
+  journal   = {IEEE Transactions on Computers},
+  volume    = {59},
+  number    = {2},
+  year      = {2010},
+  pages     = {243-257}
+}
+
+@article{WatfaC08,
+  author    = {Mohamed Khalil Watfa and
+               Sesh Commuri},
+  title     = {An energy efficient and self-healing 3-dimensional sensor
+               cover},
+  journal   = {IJAHUC},
+  volume    = {3},
+  number    = {1},
+  year      = {2008},
+  pages     = {33-47}
+}
+@inproceedings{jun012,
+  author    = {Jun Xiao and Chenchen Qi and Lizhong Shu},
+  title     = {Research of coverage control algorithm in three-dimensional wireless sensor network based on energy efficiency},
+  booktitle = {Proc. of CCDC},
+  year      = {2012},
+  pages     = {3363-3368}
+ }
+
+
+@article{ZhangBTXJ10,
+  author    = {Chuanlin Zhang and
+               Xiaole Bai and
+               Jin Teng and
+               Dong Xuan and
+               Weijia Jia},
+  title     = {Constructing low-connectivity and full-coverage three dimensional
+               sensor networks},
+  journal   = {IEEE Journal on Selected Areas in Communications},
+  volume    = {28},
+  number    = {7},
+  year      = {2010},
+  pages     = {984-993}
+}
+
+
+@ARTICLE{4468710,
+author={Chia-Ho Ou and Kuo-Feng Ssu},
+journal={IEEE Transactions on Mobile Computing},
+title={Sensor Position Determination with Flying Anchors in Three-Dimensional Wireless Sensor Networks},
+year={2008},
+volume={7},
+number={9},
+pages={1084-1097}}
+
+@inproceedings{a3,
+  author    = "Xiao Wang and
+               Xinbing Wang and
+               Jun Zhao",
+  title     = "Impact of Mobility and Heterogeneity on Coverage and Energy
+               Consumption in Wireless Sensor Networks",
+  booktitle = "Proc. of IEEE ICDCS",
+  year      = "2011",
+  pages     = "477-487"
+}
+@ARTICLE{Seh13,
+author={Seh Chun Ng and Guoqiang Mao and Anderson, B.D.O.},
+journal={Wireless Communications, IEEE Transactions on},
+title={Critical Density for Connectivity in 2D and 3D Wireless Multi-Hop Networks},
+year={2013},
+volume={12},
+number={4},
+pages={1512-1523}}
+
+@ARTICLE{Xiaoyuan09,
+author={Xiaoyuan Ta and Guoqiang Mao and Anderson, B. D O},
+journal={Mobile Computing, IEEE Transactions on},
+title={On the Phase Transition Width of K-Connectivity in Wireless Multihop Networks},
+year={2009},
+volume={8},
+number={7},
+pages={936-949}}
+
+@INPROCEEDINGS{Quin07,
+author={Qing Ling and Zhi Tian},
+booktitle={Proc. of GLOBECOM},
+title={Minimum Node Degree and k-Connectivity of a Wireless Multihop Network in Bounded Area},
+year={2007},
+pages={1296-1301}
+}
+@article{Bettstetter04,
+  author    = {Christian Bettstetter},
+  title     = {On the Connectivity of Ad Hoc Networks},
+  journal   = {The Computer Journal},
+  volume    = {47},
+  number    = {4},
+  year      = {2004},
+  pages     = {432-447}
+}
+
+@inproceedings{Bettstetter02,
+  author    = {Christian Bettstetter},
+  title     = {On the minimum node degree and connectivity of a wireless
+               multihop network},
+  booktitle = {Proc. of MobiHoc},
+  year      = {2002},
+  pages     = {80-91}
+}
+@article{ZhangH08,
+  author    = {Honghai Zhang and
+               Jennifer C. Hou},
+  title     = {Asymptotic critical total power for k-connectivity of wireless
+               networks},
+  journal   = {IEEE/ACM Transactions on Networking},
+  volume    = {16},
+  number    = {2},
+  year      = {2008},
+  pages     = {347-358}
+}
+
+@inproceedings{LingT07,
+  author    = {Qing Ling and
+               Zhi Tian},
+  title     = {Minimum Node Degree and k-Connectivity of a Wireless Multihop
+               Network in Bounded Area},
+  booktitle = {Proc. of GLOBECOM},
+  year      = {2007},
+  pages     = {1296-1301}
+}
+
+
+@article{JiaKMWY05,
+  author    = {Xiaohua Jia and
+               Dongsoo Kim and
+               Sam Makki and
+               Peng-Jun Wan and
+               Chih-Wei Yi},
+  title     = {Power Assignment for {\it k}-Connectivity in Wireless Ad
+               Hoc Networks},
+  journal   = {Journal of Combinatorial Optimization},
+  volume    = {9},
+  number    = {2},
+  year      = {2005},
+  pages     = {213-222}
+}
+
+
+@article{Penrose99,
+  author    = {Mathew D. Penrose},
+  title     = {On k-connectivity for a geometric random graph},
+  journal   = {Random Struct. Algorithms},
+  volume    = {15},
+  number    = {2},
+  year      = {1999},
+  pages     = {145-164}
+}
+
+@INPROCEEDINGS{hariprabhat,
+author={Hari Prabhat Gupta and S. V. Rao and T. Venkatesh},
+booktitle={Proc. of COMSNETS}, 
+title={Sleep scheduling for partial coverage in heterogeneous wireless sensor networks},
+year={2013},
+pages={1-10}
+}
+
+@inproceedings{paillard,
+  author    = {Gabriel Paillard and
+               Vlady Ravelomanana},
+  title     = {Limit Theorems for Degree of Coverage and Lifetime in Large
+               Sensor Networks},
+  booktitle = {Proc. of INFOCOM},
+  year      = {2008},
+  pages     = {2011-2019}
+}
+@article{Lazos,
+ author = {Loukas Lazos and Radha Poovendran},
+ title = {Stochastic coverage in heterogeneous sensor networks},
+ journal = {ACM Transactions on Sensor Networks},
+ volume = {2},
+ number = {3},
+ year = {2006},
+ pages = {325-358},
+}
+@article{wan,
+ author = "Peng-Jun Wan and Chih-Wei Yi",
+ title = "Coverage by randomly deployed wireless sensor networks",
+ journal = "IEEE/ACM Transactions on Information Theory",
+ year      = "2006",
+ volume = "52",
+number= "6", 
+pages = "2658-2669",
+} 
+@inproceedings{zhang1,
+  author    = {Honghai Zhang and
+               Jennifer C. Hou},
+  title     = {Is Deterministic Deployment Worse than Random Deployment
+               for Wireless Sensor Networks?},
+  booktitle = {Proc. of INFOCOM},
+  year      = {2006},
+  pages = {1-13}
+}
+
+@BOOK{book1,
+   author = "Daniel Zwillinger",
+   title= "CRC Standard Mathematical Tables and Formulae, {$32^{nd}$} Edition ",
+   publisher = "CRC Press",
+   year = "1987",
+   pages= {123--124}
+   }
+
+
+@article{Yen,
+  author    = {Li-Hsing Yen and
+               Chang Wu Yu and
+               Yang-Min Cheng},
+  title     = {Expected {\it k}-coverage in wireless sensor networks},
+  journal   = {Ad Hoc Networks},
+  volume    = {4},
+  number    = {5},
+  year      = {2006},
+  pages     = {636-650},
+  ee        = {http://dx.doi.org/10.1016/j.adhoc.2005.07.001},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+
+
+ 
+@article{WSN-Survey-2008,
+ author = {J.Yick and B.Mukherjee and B.Ghoshal},
+ title = {Wireless Sensor Network Survey},
+ journal = {Computer Networks},
+ volume = {52},
+ number = {12},
+ year = {2008},
+pages = {2292-2330}
+}
+@article{ChenHB09,
+  author    = {Xi Chen and
+               Yu-Chi Ho and
+               Hongxing Bai},
+  title     = {Complete coverage and point coverage in randomly distributed
+               sensor networks},
+  journal   = {Automatica},
+  volume    = {45},
+  number    = {6},
+  year      = {2009},
+  pages     = {1549-1553},
+}
+
+@article{Wu2005,
+ author = {Wu, Kui and Gao, Yong and Li, Fulu and Xiao, Yang},
+ title = {Lightweight deployment-aware scheduling for wireless sensor networks},
+ journal = {Mobile Networks and Applications},
+ volume = {10},
+ number = {6},
+ year = {2005},
+ pages = {837-852},
+} 
+@article{a1,
+ author = "Bulut, Eyuphan and Korpeoglu, Ibrahim",
+ title = "Sleep scheduling with expected common coverage in wireless sensor network",
+ journal = "Wireless Networks",
+ volume = "17",
+ number    = "1",
+ year = "2011",
+ pages = "19-40"
+} 
+
+@article{goes2011,
+  author    = {Fernando de Goes and
+               David Cohen-Steiner and
+               Pierre Alliez and
+               Mathieu Desbrun},
+  title     = {An Optimal Transport Approach to Robust Reconstruction and
+               Simplification of {2D} Shapes},
+  journal   = {Comput. Graph. Forum},
+  volume    = {30},
+  number    = {5},
+  year      = {2011},
+  pages     = {1593-1602},
+  ee        = {http://dx.doi.org/10.1111/j.1467-8659.2011.02033.x},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+@article{Gritzmann92,
+  author    = {Peter Gritzmann and
+               Victor Klee},
+  title     = {Inner and Outer j-Radii of Convex Bodies in Finite-Dimensional
+               Normed Spaces},
+  journal   = {Discrete {\&} Computational Geometry},
+  volume    = {7},
+  year      = {1992},
+  pages     = {255-280},
+  ee        = {http://dx.doi.org/10.1007/BF02187841},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@article{xing05,
+  author    = {Guoliang Xing and
+               Xiaorui Wang and
+               Yuanfang Zhang and
+               Chenyang Lu and
+               Robert Pless and
+               Christopher D. Gill},
+  title     = {Integrated coverage and connectivity configuration for energy
+               conservation in sensor networks},
+  journal   = {ACM Transactions on Sensor Networks},
+  volume    = {1},
+  number    = {1},
+  year      = {2005},
+  pages     = {36-72}
+}
+@article{Appendix,
+author    = "{Supplementary File}",        
+	 note = "[Online] Available: \url{http://www.iitg.ernet.in/stud/g.hari/mass13.pdf}"
+}
+
+@ARTICLE{6609121,
+author={Taghvaeeyan, S. and Rajamani, R.},
+journal={IEEE Transactions on Intel. Trans. Systems},
+title={Portable Roadside Sensors for Vehicle Counting, Classification, and Speed Measurement},
+year={2014},
+month={Feb},
+volume={15},
+number={1},
+pages={73-83}}
+
+@ARTICLE{6645460,
+author={Wang, R. and et. al.},
+journal={IEEE Transactions on Intel. Trans. Systems},
+title={EasiSee: Real-Time Vehicle Classification and Counting via Low-Cost Collaborative Sensing},
+year={2014},
+month={Feb},
+volume={15},
+number={1},
+pages={414-424}}

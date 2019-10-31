@@ -1,0 +1,439 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.11.27)  22 JAN 2014 08:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**csethesis.cls
+(./csethesis.cls
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+
+LaTeX Warning: You have requested package `',
+               but the package provides `csethesis'.
+
+Package: csethesis 2007/04/09
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\c@theorem=\count88
+\c@invar=\count89
+\c@obs=\count90
+\c@conj=\count91
+\phdtitle=\toks14
+\name=\toks15
+\rollno=\toks16
+\email=\toks17
+\guide=\toks18
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 \newif\if@
+               fancyhdr
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! You can't use `\spacefactor' in vertical mode.
+\@->\spacefactor 
+                 \@m 
+l.50 \ExecuteOptions{plainhdr}
+                              
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.50 \ExecuteOptions{plainhdr}
+                              
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \ExecuteOptions{plainhdr}
+                              
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Runaway argument?
+@nnil ifx external@font @empty @latex@error {Font expandafter string ETC.
+! Paragraph ended before reserved@f was complete.
+<to be read again> 
+                   par 
+l.52 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.52 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing endgroup inserted.
+<inserted text> 
+                endgroup 
+l.52 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing endgroup inserted.
+<inserted text> 
+                endgroup 
+l.52 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Math formula deleted: Insufficient symbol fonts.
+<recently read> $
+                 
+l.52 
+     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+\insidemargin=\dimen103
+\outsidemargin=\dimen104
+\abovemargin=\dimen105
+\belowmargin=\dimen106
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124 \let\SV@t
+               hebibliography\thebibliography
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Runaway argument?
+@nnil ifx external@font @empty @latex@error {Font expandafter string ETC.
+! Paragraph ended before reserved@f was complete.
+<to be read again> 
+                   par 
+l.125 \renewcommand
+                   {\thebibliography}[1]{%
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten endgroup.
+<recently read> }
+                 
+l.125 \renewcommand
+                   {\thebibliography}[1]{%
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Argument of @argdef has an extra }.
+<inserted text> 
+                par 
+l.125 \renewcommand
+                   {\thebibliography}[1]{%
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before @argdef was complete.
+<to be read again> 
+                   par 
+l.125 \renewcommand
+                   {\thebibliography}[1]{%
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of thebibliography has an extra }.
+<inserted text> 
+                par 
+l.125 \renewcommand{\thebibliography}
+                                     [1]{%
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before thebibliography was complete.
+<to be read again> 
+                   par 
+l.125 \renewcommand{\thebibliography}
+                                     [1]{%
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130     \clearpage
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Argument of reserved@f has an extra }.
+<inserted text> 
+                par 
+l.130     \clearpage
+                    
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+@nnil ifx external@font @empty @latex@error {Font expandafter string ETC.
+! Paragraph ended before reserved@f was complete.
+<to be read again> 
+                   par 
+l.130     \clearpage
+                    
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten endgroup.
+<recently read> }
+                 
+l.130     \clearpage
+                    
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten endgroup.
+<output> ...oom fi else global vsize maxdimen fi }
+                                                  
+l.130     \clearpage
+                    
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.133   \SV@thebibliography{#
+                             1}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Extra }, or forgotten endgroup.
+l.133   \SV@thebibliography{#1}}
+                                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: fps undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.278 \renewcommand\fps
+                       @figure{htbp}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: fnum undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.280 \renewcommand\fnum
+                        @figure{{\reset@font\bfseries\figurename~\thefigure}}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.280 \renewcommand\fnum@figure{{\reset
+                                       @font\bfseries\figurename~\thefigure}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Argument of reserved@f has an extra }.
+<inserted text> 
+                par 
+l.280 ...eset@font\bfseries\figurename~\thefigure}
+                                                  }
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+@nnil ifx external@font @empty @latex@error {Font expandafter string ETC.
+! Paragraph ended before reserved@f was complete.
+<to be read again> 
+                   par 
+l.280 ...eset@font\bfseries\figurename~\thefigure}
+                                                  }
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten endgroup.
+<recently read> }
+                 
+l.280 ...eset@font\bfseries\figurename~\thefigure}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten endgroup.
+l.280 ...set@font\bfseries\figurename~\thefigure}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.281 \renewcommand\fnum@table{{\reset
+                                      @font\bfseries\tablename~\thetable}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Argument of reserved@f has an extra }.
+<inserted text> 
+                par 
+l.281 ...\reset@font\bfseries\tablename~\thetable}
+                                                  }
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+@nnil ifx external@font @empty @latex@error {Font expandafter string ETC.
+! Paragraph ended before reserved@f was complete.
+<to be read again> 
+                   par 
+l.281 ...\reset@font\bfseries\tablename~\thetable}
+                                                  }
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten endgroup.
+<recently read> }
+                 
+l.281 ...\reset@font\bfseries\tablename~\thetable}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten endgroup.
+l.281 ...reset@font\bfseries\tablename~\thetable}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+aboveTcaptionskip=dimen107
+belowTcaptionskip=dimen108
+)
+! Emergency stop.
+<*> csethesis.cls
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 287 strings out of 495059
+ 2876 string characters out of 3182029
+ 47260 words of memory out of 3000000
+ 3559 multiletter control sequences out of 15000+200000
+ 3938 words of font info for 15 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 22i,4n,19p,140b,328s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

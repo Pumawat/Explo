@@ -1,0 +1,10 @@
+We have taken efforts in this project. However, it would not have been possible
+without the kind support and help of many individuals and organizations. We would
+like to extend our sincere gratitude to all of them.
+We are highly indebted to Prof Dr. Lakshmanan Kailasam for his guidance and constant super-
+vision as well as for providing necessary information regarding the project and also
+for his support throughout the duration of the project. We would like to express our
+gratitude towards our parents for their kind co-operation and encouragement which
+help us in completion of this project. Our thanks and appreciations also go to our
+colleagues in developing the project and people who have willingly helped us out with
+their abilities. We are also thankful to Nvidia for its helpful documentation on CUDA

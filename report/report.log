@@ -1,0 +1,717 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  22 APR 2019 21:25
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(./csethesis.cls
+Document Class: csethesis 2007/04/09
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\c@invar=\count89
+\c@obs=\count90
+\c@conj=\count91
+\phdtitle=\toks14
+\name=\toks15
+\rollno=\toks16
+\email=\toks17
+\guide=\toks18
+\insidemargin=\dimen103
+\outsidemargin=\dimen104
+\abovemargin=\dimen105
+\belowmargin=\dimen106
+\aboveTcaptionskip=\dimen107
+\belowTcaptionskip=\dimen108
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count92
+\U@D=\dimen109
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count93
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen110
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen111
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen112
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks20
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks21
+\eqnshift@=\dimen113
+\alignsep@=\dimen114
+\tagshift@=\dimen115
+\tagwidth@=\dimen116
+\totwidth@=\dimen117
+\lineht@=\dimen118
+\@envbody=\toks22
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+(./setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/04/01 v1.8r multicolumn formatting (FMi)
+\c@tracingmulticols=\count106
+\mult@box=\box28
+\multicol@leftmargin=\dimen119
+\c@unbalance=\count107
+\c@collectmore=\count108
+\doublecol@number=\count109
+\multicoltolerance=\count110
+\multicolpretolerance=\count111
+\full@width=\dimen120
+\page@free=\dimen121
+\premulticols=\dimen122
+\postmulticols=\dimen123
+\multicolsep=\skip46
+\multicolbaselineskip=\skip47
+\partial@page=\box29
+\last@line=\box30
+\maxbalancingoverflow=\dimen124
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count112
+\c@finalcolumnbadness=\count113
+\last@try=\dimen125
+\multicolovershoot=\dimen126
+\multicolundershoot=\dimen127
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\mc@col@check@num=\count114
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/bigints/bigints.sty
+Package: bigints 2010/02/15 Writing big integrals
+Package bigints Info: This is Bigints by Merciadri Luca. on input line 5.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+\Gin@req@height=\dimen128
+\Gin@req@width=\dimen129
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/mdwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box54
+\fn@width=\dimen130
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
+\col@sep=\dimen131
+\ar@mcellbox=\box55
+\extrarowheight=\dimen132
+\NC@list=\toks25
+\extratabsurround=\skip48
+\backup@length=\skip49
+\ar@cellbox=\box56
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip50
+\multirow@cntb=\count115
+\multirow@dima=\skip51
+\bigstrutjot=\dimen133
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/sidecap/sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\SC@BOXWD=\dimen134
+\SC@CAPWD=\dimen135
+\SC@tempdima=\dimen136
+\SC@tempdimb=\dimen137
+\c@SC@C=\count116
+\SC@BOX=\box57
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+\everycr=\toks26
+\minrowclearance=\skip52
+)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count117
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count118
+\LTcapwidth=\dimen138
+\LT@head=\box58
+\LT@firsthead=\box59
+\LT@foot=\box60
+\LT@lastfoot=\box61
+\LT@cols=\count119
+\LT@rows=\count120
+\c@LT@tables=\count121
+\c@LT@chunks=\count122
+\LT@p@ftn=\toks27
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen139
+\WF@size=\dimen140
+\c@WF@wrappedlines=\count123
+\WF@box=\box62
+\WF@everypar=\toks28
+Package: wrapfig 2003/01/31  v 3.6
+)
+\c@lemma=\count124
+\c@theorem=\count125
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/03/24 v5.7 Page Geometry
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count126
+\Gm@cntv=\count127
+\c@Gm@tempcnt=\count128
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks29
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count129
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip57
+\f@nch@O@elh=\skip58
+\f@nch@O@erh=\skip59
+\f@nch@O@olh=\skip60
+\f@nch@O@orh=\skip61
+\f@nch@O@elf=\skip62
+\f@nch@O@erf=\skip63
+\f@nch@O@olf=\skip64
+\f@nch@O@orf=\skip65
+)
+\c@example=\count130
+
+
+LaTeX Warning: Unused global option(s):
+    [12pt].
+
+(./report.aux (./others/title.aux) (./others/dedication.aux)
+(./others/declaration.aux) (./others/certificate.aux)
+(./others/acknowledgment.aux) (./others/abstract.aux) (./others/notations.aux)
+(./chapters/ch0.aux) (./chapters/ch2.aux) (./chapters/ch3.aux
+
+LaTeX Warning: Label `final' multiply defined.
+
+) (./chapters/ch4.aux
+
+LaTeX Warning: Label `final' multiply defined.
+
+))
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+ (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count131
+\scratchdimen=\dimen149
+\scratchbox=\box63
+\nofMPsegments=\count132
+\nofMParguments=\count133
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count134
+\MPscratchDim=\dimen150
+\MPnumerator=\count135
+\makeMPintoPDFobject=\count136
+\everyMPtoPDFconversion=\toks31
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 126.
+)
+\CenteringLeftskip=\skip66
+\RaggedLeftLeftskip=\skip67
+\RaggedRightLeftskip=\skip68
+\CenteringRightskip=\skip69
+\RaggedLeftRightskip=\skip70
+\RaggedRightRightskip=\skip71
+\CenteringParfillskip=\skip72
+\RaggedLeftParfillskip=\skip73
+\RaggedRightParfillskip=\skip74
+\JustifyingParfillskip=\skip75
+\CenteringParindent=\skip76
+\RaggedLeftParindent=\skip77
+\RaggedRightParindent=\skip78
+\JustifyingParindent=\skip79
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=650.43001pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=95.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\openout2 = `others/title.aux'.
+
+(./others/title.tex
+<./logo.jpeg, id=1, 223.83624pt x 226.8475pt>
+File: ./logo.jpeg Graphic file (type jpg)
+<use ./logo.jpeg>
+Package pdftex.def Info: ./logo.jpeg  used on input line 24.
+(pdftex.def)             Requested size: 156.6843pt x 158.79216pt.
+ [1
+
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo.
+jpeg>]) [2
+
+]
+\openout2 = `others/dedication.aux'.
+
+ (./others/dedication.tex) [3
+
+
+]
+\openout2 = `others/declaration.aux'.
+
+
+(./others/declaration.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (102.52957pt too wide) in paragraph at lines 18--25
+ [][] 
+ []
+
+) [4
+
+
+
+]
+\openout2 = `others/certificate.aux'.
+
+ (./others/certificate.tex
+Overfull \hbox (102.52957pt too wide) in paragraph at lines 15--21
+ [][] 
+ []
+
+) [5
+
+
+
+]
+\openout2 = `others/acknowledgment.aux'.
+
+ (./others/acknowledgment.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+) [6
+
+
+
+]
+\openout2 = `others/abstract.aux'.
+
+ (./others/abstract.tex) [7
+
+
+
+] (./report.toc)
+\tf@toc=\write3
+\openout3 = `report.toc'.
+
+ [8
+
+
+] (./report.lof)
+\tf@lof=\write4
+\openout4 = `report.lof'.
+
+ [9
+
+
+]
+(./report.lot)
+\tf@lot=\write5
+\openout5 = `report.lot'.
+
+ [10
+
+]
+\openout2 = `others/notations.aux'.
+
+ (./others/notations.tex
+Overfull \hbox (16.03795pt too wide) in alignment at lines 4--11
+ [] [] [] 
+ []
+
+) [11
+
+
+]
+\openout2 = `chapters/ch0.aux'.
+
+ (./chapters/ch0.tex
+Chapter 1.
+) [1
+
+
+
+]
+\openout2 = `chapters/ch2.aux'.
+
+ (./chapters/ch2.tex
+Chapter 2.
+Package epstopdf Info: Source file: <1.eps>
+(epstopdf)                    date: 2014-10-02 12:30:20
+(epstopdf)                    size: 14776 bytes
+(epstopdf)             Output file: <1-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-12-27 23:18:02
+(epstopdf)                    size: 3144 bytes
+(epstopdf)             Command: <repstopdf --outfile=1-eps-converted-to.pdf 1.e
+ps>
+(epstopdf)             \includegraphics on input line 18.
+Package epstopdf Info: Output file is already uptodate.
+<1-eps-converted-to.pdf, id=48, 289.08pt x 199.74625pt>
+File: 1-eps-converted-to.pdf Graphic file (type pdf)
+<use 1-eps-converted-to.pdf>
+Package pdftex.def Info: 1-eps-converted-to.pdf  used on input line 18.
+(pdftex.def)             Requested size: 144.53964pt x 99.87288pt.
+) [2
+
+
+
+ <./1-eps-converted-to.pdf>]
+\openout2 = `chapters/ch3.aux'.
+
+ (./chapters/ch3.tex
+Chapter 3.
+) [3
+
+
+
+]
+\openout2 = `chapters/ch4.aux'.
+
+ (./chapters/ch4.tex
+Chapter 4.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
+) [4
+
+
+
+]
+(./report.bbl) [5
+
+
+
+] (./report.aux (./others/title.aux) (./others/dedication.aux) (./others/declar
+ation.aux) (./others/certificate.aux)
+(./others/acknowledgment.aux) (./others/abstract.aux) (./others/notations.aux)
+(./chapters/ch0.aux) (./chapters/ch2.aux) (./chapters/ch3.aux)
+(./chapters/ch4.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5182 strings out of 492649
+ 69909 string characters out of 6129622
+ 257886 words of memory out of 5000000
+ 8841 multiletter control sequences out of 15000+600000
+ 16776 words of font info for 62 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,11n,43p,575b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (16 pages, 143757 bytes).
+PDF statistics:
+ 96 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

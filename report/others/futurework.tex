@@ -1,0 +1,19 @@
+\chapter{Conclusion and Future Work}
+\section{Conclusion}
+In this work we proposed "Demand Based Energy Efficient Topology Management Algorithm" for MANETs. This algorithm we first perform clustering over the network nodes to form cluster. To save energy all members of each cluster except clusterhead are put to SLEEP state. The clusterhead acts as a representative of all nodes in its cluster. It performs all the routing and data forwarding for all of its nodes.
+
+To provide connectivity some of the non clusterhead nodes are selected as gateways in next step. These are responsible for communication between clusters. Clusterheads and gateways together form the virtual backbone of the network. All the nodes wake up periodically and the clusterheads and gateways are updated so as to maintain an efficient topology which minimizes energy consumption of the network.
+
+Next we apply power control technique and increase number of active nodes by including nodes that decrease the overall energy consumption of an ongoing transmission. Also at this stage a node predicts if it can decrease cost of communication between two nodes in an ongoing transmission by acting as a relay node in near future. While predicting this node takes into account the velocity of the involved nodes.
+
+Also some of the nodes are then pruned if a node arrive that decreases the communication cost by routing the data through itself rather than through the pruned node(s).
+
+In the last chapter we give an analysis in support of our algorithm. Using this analysis we prove that power control techniques are in-fact energy efficient as compared to the topology control algorithm without power control technique.
+We also provide a delay analysis which provides us an expression for overall delay in the network.\\
+
+\section{Future Work}
+%
+%Here we have only provided the analysis for a part of the power control technique. This analysis can be extended to include the second part
+In this Thesis we have only concentrated on the theoretical analysis of the algorithm. In case of networks a simulation is equally important. Thus this work can be extended by simulating the proposed algorithm over a network simulator and verify the correctness based on the results obtained. After the simulation the algorithm could be tested over a physical MANET.
+
+Routing is a very important part of any network. Routing protocol defines the efficiency of a network to a large extent. In this work we have not considered the routing in the network. We can include an appropriate routing protocol compatible with the proposed algorithm to have a full cover of the topic.
